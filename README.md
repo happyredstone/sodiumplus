@@ -28,6 +28,7 @@ Please submit any bugs or feature requests on out GitHub issues page: https://gi
 - ClickThrough
 - Cloth Config API
 - Collective
+- Continuity
 - Cull Leaves
 - DashLoader
 - Drip Sounds (Fabric)
@@ -39,10 +40,10 @@ Please submit any bugs or feature requests on out GitHub issues page: https://gi
 - ESSENTIAL Mod
 - Fabric API
 - Fabric Language Kotlin
+- Fabric Skyboxes
 - Fabrishot
 - Falling Leaves
 - FerriteCore
-- First-person Model
 - FPS - Display
 - Full Brightness Toggle
 - Held Item Info
@@ -57,6 +58,7 @@ Please submit any bugs or feature requests on out GitHub issues page: https://gi
 - Logical Zoom
 - MidnightLib
 - MinecraftCapes
+- MixinTrace
 - Model Gap Fix
 - Mod Menu
 - Mouse Wheelie
@@ -74,6 +76,12 @@ Please submit any bugs or feature requests on out GitHub issues page: https://gi
 - Wavey Capes
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+Resource packs:
+
+- Default Dark Mode
+- Even Better Enchants
+- Hyper Realistic Sky
 
 </details>
 

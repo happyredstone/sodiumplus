@@ -7,6 +7,7 @@
 
 - Updated EntityCulling
 - Updated Architectury API
+- Added Continuity
 - Added MixinTrace
 - Added Fabric Skyboxes
 - Added Default Dark Mode (optional)

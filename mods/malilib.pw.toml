@@ -1,0 +1,13 @@
+name = "MaLiLib"
+filename = "malilib-fabric-1.19.3-0.14.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a46313e2c551c52005d6dc7eef7c53adf4c483f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4147598
+project-id = 303119

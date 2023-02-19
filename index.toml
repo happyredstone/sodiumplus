@@ -9,12 +9,20 @@ file = ".vscode/settings.json"
 hash = "a2fb7895972da3c259bffada3f8acb5f16e4ef11883405a80db108541cbf9b6f"
 
 [[files]]
+file = "LICENSE"
+hash = "cbc9d130b9995c20d99a4689f67876686be46c341a740326a2cecf048fdfc267"
+
+[[files]]
+file = "README.md"
+hash = "e178f60f39ee5c7187322445a7a22e5a4b0fdac7e883277caeec176b7eb340c6"
+
+[[files]]
 file = "build.sh"
 hash = "b1805866eee0bacc42986bd67c7b7c88dcfa5b150992cca0d599947d83884075"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/checksums/checksums.lock"
-hash = "805331594b3d0d2eb3dac8c8a534beded251e83a65140cd8a3de2f1365ce7844"
+hash = "55dddba0d31c4d462711b02d8ab0f949d2501ec9bd09b3c799855a5f3cca48a5"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/checksums/md5-checksums.bin"
@@ -22,7 +30,7 @@ hash = "212cd01732963c832f63b9c6f4f2e3c816470afaaa769f4f99b6523b62c034a4"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/checksums/sha1-checksums.bin"
-hash = "072b631593c5589f3aa298e01af0bf68233ed1ccf467318a9b716049e5e9f514"
+hash = "c086ac45ce91b6e111480116bc40887b84294f1b6449afbea428aa886b76d6c8"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock"
@@ -34,11 +42,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/executionHistory/executionHistory.bin"
-hash = "ea286c5d514b99d768a3ecdc47ea17eb92eb4a71372c578b59ad717aeab00a53"
+hash = "80f6cc50545cd583f5f3e825bd70b153ede619991e851386ccfe41bccdf5ba07"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/executionHistory/executionHistory.lock"
-hash = "923612405b4dd1c17165e44a9044388e339457ce114002188c0242692e204d33"
+hash = "ede6a497fbeaa0f769cb551bc5bc0970e39b102bb117d3b4c53ca39f01fa43b3"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/fileChanges/last-build.bin"
@@ -50,7 +58,7 @@ hash = "1c4773535274399c85dfd6bebf80a5d2f847edb63892b9e839b6fd280f60ef8a"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/fileHashes/fileHashes.lock"
-hash = "a6caa7d42f3f5f029b6e921a40280bb9ba5912a7485cf29f71d9179b52059d2c"
+hash = "c5c11fcc9ed53d8ce4ec97a257983ed802413a220b3788736d1b9d7bc2d4a0f9"
 
 [[files]]
 file = "litematica/.gradle/7.5.1/fileHashes/resourceHashesCache.bin"
@@ -62,7 +70,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "litematica/.gradle/buildOutputCleanup/buildOutputCleanup.lock"
-hash = "b2ad68f302939d5149ecb4edb27ce4f4781425fe2fdef16db81b60346de639ef"
+hash = "eec523d2e0025b7034a510c5079d3bf45abcc5e114039eeb00db9524557a5f29"
 
 [[files]]
 file = "litematica/.gradle/buildOutputCleanup/cache.properties"
@@ -74,7 +82,7 @@ hash = "62dc84d2906a38f2eb3d152a294430795c67baae00ec919c433e7b6a8d760c2e"
 
 [[files]]
 file = "litematica/.gradle/file-system.probe"
-hash = "ac27a0de100b002b4da4ea846caf6581e9e90fa1027d6fe41d64f572bffd97da"
+hash = "4d68df7fc25ae4223683718d863de20245411a42f41cf3fdbef487a6736ee451"
 
 [[files]]
 file = "litematica/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_19_3_1_19_3_build_2_v2/com/terraformersmc/modmenu/5.0.1/modmenu-5.0.1-sources.jar"
@@ -183,6 +191,1326 @@ hash = "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
 [[files]]
 file = "litematica/README.md"
 hash = "bd63f2965d61e700946a34884a9ef56804424ab22a955ec4b0b51e3627d4cef6"
+
+[[files]]
+file = "litematica/bin/main/assets/litematica/icon.png"
+hash = "311f32538e518c1db92b6144a7d6cd6c2789725b097c8aa66b7e065300c82be7"
+
+[[files]]
+file = "litematica/bin/main/assets/litematica/lang/en_us.json"
+hash = "1202f3048a0dea3a7eb4328b64d9582ea268b75d2b0ba1f761f964acf4629ca5"
+
+[[files]]
+file = "litematica/bin/main/assets/litematica/lang/ru_ru.json"
+hash = "ce0f5529130a94ba4e12cfd61983bcbcb0dc2c2c10f28a93254a60953d75a73c"
+
+[[files]]
+file = "litematica/bin/main/assets/litematica/lang/zh_cn.json"
+hash = "9afe3edf82810c1cb4208d702cca5374e990212b07d55d84bc919eba36b56514"
+
+[[files]]
+file = "litematica/bin/main/assets/litematica/textures/gui/gui_widgets.png"
+hash = "cea67f96b8414945cfde5fa71d60cbf78df25271a4edd16ca4c7a8aa85f9c5e6"
+
+[[files]]
+file = "litematica/bin/main/assets/litematica/textures/xcf/gui_widgets.xcf"
+hash = "f0c1b8e031f8829762ca2945221bdfe1b7ff2df71117168168020fa6346f3d37"
+
+[[files]]
+file = "litematica/bin/main/fabric.mod.json"
+hash = "db12c0db4f0e567bab5e6ac5ec5fd13591b715f2921470aef8183e619a97dd04"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/InitHandler.class"
+hash = "9836ee61fdaec799c422a2f37cc7afe2aa1817ca7cb0480521819fbaa3d1c3bd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/Litematica.class"
+hash = "18224aa25b2f9f1ceea220cc3e1784f69534660f08a47f9c99704da228836d44"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/Reference.class"
+hash = "e9a11abb05492e4953a1b5f6f46fb07cd81addb9d3ea6ae2fa607baa32337555"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/compat/modmenu/ModMenuImpl.class"
+hash = "5e8fce9c1f36af0baa64ca3f6d9640070f1fc7273819f12bd788d3647b9d24eb"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/config/Configs$Colors.class"
+hash = "bbaf8f631b686853cf2c5f2d1b851aeb0118d83982d5996d9bf189b8b1a47689"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/config/Configs$Generic.class"
+hash = "11b2aea22cae14fe192369af9f27e25ebae2842d00ff6190977f82c4e33bbd1f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/config/Configs$InfoOverlays.class"
+hash = "b0b7efab18049e987f73f890faa77ed17123a62a611525647907840362da88d3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/config/Configs$Visuals.class"
+hash = "897ce7cfa2a52c4190b0a2369426aa5f3d85a1627bfb08e7e7289f239bf2660c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/config/Configs.class"
+hash = "945bd8cf2759dac162d0af573082560ddc6fd86f9af0680adf810492e45fecad"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/config/Hotkeys.class"
+hash = "e65b91edefc1e8162f84b0e30839136c353e166f4a2ae67debb84e6e0a1d2457"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/data/DataManager.class"
+hash = "05cfed0026a17ff0b7a03525d86e1a7dae9f81a2379df46541c4f5edab5fa6b0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/data/SchematicHolder.class"
+hash = "dfb432ed4ed8f3101bafc277f910d3ea1b1622a5efaf4945269fff8eb9926c7e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/InputHandler.class"
+hash = "42c0876f76d5959359e89dd806689e4300b977bccce5c47c49e2085596c99f6d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/KeyCallbacks$KeyCallbackHotkeys.class"
+hash = "83d9c638eb31974ed36270d677a3a37f1d1ca47c5ffe4dfe65ee9acfb76f0b1a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/KeyCallbacks$KeyCallbackToggleMessage.class"
+hash = "0e9a9f26698213fc4b4321a466b6f30f5f8355b7aca788c5d4696aaca1163ed9"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/KeyCallbacks$RenderToggle.class"
+hash = "99fa2d30e33cb599c75330da873c0a8d21c8d20ff6fd32f02f232136f167d9ba"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/KeyCallbacks$ValueChangeCallback.class"
+hash = "6b1afe7820159ce7aea7a6ec3f23ae6ca2c84c7d520507a631c48c53db61a141"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/KeyCallbacks.class"
+hash = "3c35eca374b38c6dc9c18d5a2a34198b7aa262c8e2ef90c59dd94d69b7fb8292"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/RenderHandler.class"
+hash = "c968ad5dd51d91c4120cb71387eee6d07754fc7de4be2ca9a817d2321e099a48"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/event/WorldLoadListener.class"
+hash = "1cb5a3e1ab8245f078a26221aeb2044d3fc833a3dded2c4b3e22b464fffa42a9"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/ButtonIcons.class"
+hash = "ea3c18c787e1f315ba1736d0c0349f6961b85335bc3f49b67276846ed2e58250"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorNormal$ButtonListener$Type.class"
+hash = "0b9a919963c912528d06280050248a3706fc8eaa14ab00fdf20582d64cf7732a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorNormal$ButtonListener.class"
+hash = "078d01381d216c1c4ca6d926948947f5b009555be4b4287c0c23093ec15b4d02"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorNormal$CheckBoxListener.class"
+hash = "49a61dd1b8a7861851d8483893c2f9737f33038e3a47e00e3b2a5214311d8a47"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorNormal$SubRegionCreator.class"
+hash = "633fdf1bd3508376d1ae96f59c014d388dd9396195ba8f619bad588cb9c9b73c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorNormal$TextFieldListener.class"
+hash = "6d4838841ea07009f44bf14eec0445b600c0719753313e28bb07f086dc258d2c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorNormal$TextFieldListenerDummy.class"
+hash = "41184b9a0bdcaa2db1bfbcae2a178676ce4cfe474ec08af8252f5127d23c8c15"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorNormal.class"
+hash = "3af2d0082e720aad872f34d8c1e00482200533bfee9a32cb48d6c4efc19c0998"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorSimple.class"
+hash = "e8a8f64b3f7f0d78ae0b30fbd68ecd0cd05a369d3e18a5848d7b98a896b47fe3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionEditorSubRegion.class"
+hash = "b3ced63d5b939164a2ad6ecfe2792fa5fd0abb90b08e3742ad954400976609f6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionManager$ButtonListener$ButtonType.class"
+hash = "170a9f7d33cf90e5c86e96e968347f7d03f87d9f699931d390df43dc2bc0e9fd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionManager$ButtonListener.class"
+hash = "d1fa40fd6d36efed33fd05121907993f3b4aca016a642733537f4cebdb5df7c0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionManager$SelectionCreator.class"
+hash = "c8d5220ef56109ebd4be8238645b43f01560b27c913fe5872305c4e68f176d25"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionManager$SelectionCreatorPlacement.class"
+hash = "c0c84e0318b36b86b9c42fdc8cbe595600be48f3031b6ecd31d03043105b7e4d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiAreaSelectionManager.class"
+hash = "e115284822802301e3703cb51d92ab0b4e907157774b35d9d0ae0b5bc3641655"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiConfigs$ButtonListener.class"
+hash = "cf0e6d4a38f21803fff3c11d4316b107f28e2ab2029b5ea2200ad575ba19ac1f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiConfigs$ConfigGuiTab.class"
+hash = "e93c83f950f4c75fcdcd5197f39025e2a5f7094c1334bd7c87ff4dc2ba095a5b"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiConfigs.class"
+hash = "05ced5ab7953a4abb457390677a90e5f96da70e7100c09c343e5f3b7a1f04546"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMainMenu$ButtonListenerChangeMenu$ButtonType.class"
+hash = "38aa62d7649c29aa8cbbf16da5dc5fa81f6db2ea3a7e198adcc8675b34e3457d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMainMenu$ButtonListenerChangeMenu.class"
+hash = "5e1a6495a7c56bd304695b14a327e2251ddcc1d909be9b231ee440cbbf103d9e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMainMenu$ButtonListenerCycleAreaMode.class"
+hash = "93c3886a0564e6eb1c67be1b220f032c8ad2ab833cafc9dc3f732bfe13b75a71"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMainMenu$ButtonListenerCycleToolMode.class"
+hash = "3489179e763f26d0ecd7a2adb581e56102cea48dcb16a3782aa83dc795da4863"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMainMenu.class"
+hash = "ca65868456595499a9adea1974d86c664fe60e257985d62108ccbf950d9e39d4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMaterialList$ButtonListener$Type.class"
+hash = "d6b6216e9af48c67e9f47b78e517da9bd4fa71957cfe155739d9efbaa7d785ec"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMaterialList$ButtonListener.class"
+hash = "f23b9495492d306ab53baf28c9580b55ab4ef123d961196d65897de3c69352df"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMaterialList$MultiplierListener.class"
+hash = "bb669fc756ef72bf5271cd449808729f8f02d0b3ab1ba0ae6ddc8d59930c8e1d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiMaterialList.class"
+hash = "4d3063a52ce96a9df9388fed370f80ca77f77fd811efce87d0d7c0cf0b21c49b"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiPlacementConfiguration$ButtonListener$Type.class"
+hash = "e4f87c9f9f9582a636506905af9bdb4f25b101c4fb859dfbc3db149d7a4c40e2"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiPlacementConfiguration$ButtonListener.class"
+hash = "190c9cb0998db3a55e8c4fefdf25052bb2c6d626cea6c6e385aff17ab64e251d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiPlacementConfiguration$CoordinateLockListener.class"
+hash = "b53806d67713abd810766e7884d50e8246e5b6467e4c49cf5b07686bd9100209"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiPlacementConfiguration$TextFieldListener.class"
+hash = "5e2f253606888dfa5e4f2eafa727a17f89b645f8e7c3e433859764bfe5413e18"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiPlacementConfiguration.class"
+hash = "fe81fde5fa3ddc1fef0dec28e109b279848de618bdd43948291e033683685ab8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiRenderLayer$ButtonListenerTab.class"
+hash = "19d43a20f66002eff2eac70d835e7e6d8316c9250c1a8cadcdcb3ca1a08c4bf8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiRenderLayer.class"
+hash = "ff8b32279d64e6d8e3e6581c3500b600b4752fa489ad01c924c67a9ffe1508e7"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicBrowserBase.class"
+hash = "7dd37fcba4bebba2c5b9f6cfc7777756b1a110e54c83a1126a8fd1ad6be21597"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicLoad$ButtonListener$Type.class"
+hash = "fc0f11b20a56fec3f1b68a60d0583ac5b239e057eee5881317ff4175caaa6da9"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicLoad$ButtonListener.class"
+hash = "19e593a4f78e79c936e0412d0e40986d31e7a2062a251af05138fa63b0004c71"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicLoad$CheckboxListener.class"
+hash = "11db2e874ba4d4f184191b9a307ea469390f2723c618a063b69d82dbefd2e9b0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicLoad$MaterialListCreator.class"
+hash = "606cc3998d84b764104e09f14c247a7e14421c1a4c9c714ba1723bbe22932ce1"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicLoad.class"
+hash = "d30e9e23e04552344751c9c1f1d9c450a07a3ec028666f2a4289b12ca0576dac"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicLoadedList.class"
+hash = "11b051e90f6f718dc3deeb0612a4127b97ec1a12682db177c00891a05d381e95"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager$ButtonListener$Type.class"
+hash = "a0a5b899b33976ed394e00827bf4970cdfd25e223176cc87630b521c46727dd4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager$ButtonListener.class"
+hash = "49a2f84102bf7d7b64eb3e2368bfc5495528e1b2b986784fe2eb1ac84210c4cd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager$ConfigWrapper.class"
+hash = "126a7aafceefcf2f2fbef3db073e14bb9aaf617d120b526e551d1bacc0d0fc85"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager$ExportType.class"
+hash = "383a16bbb571246892e38e5805f027578c08a0c2dfb9f01b9739b4e23acd8c59"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager$FileDeleter.class"
+hash = "b18b0330a791cac6bfa9423aabc92fad1b925bb7d8e98d05637f17a5d715c169"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager$PreviewGenerator.class"
+hash = "07523d02457948327714cab454e0aaba6dc8f1b3651e63ff3fc1368698347a6a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager$SchematicRenamer.class"
+hash = "1bcfcbe0d07a2721a634878ed95f31839ac948f2b9f7adbb60ebd2bddbb1b12a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicManager.class"
+hash = "e322a1d9aa5f7e70ab402ba745c01733cba236ffa33362e740ddf3101d868519"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicPlacementsList.class"
+hash = "478ad7407bb5a9b39079d99b5c046587d0709e47066bad126230b99b7c2206ef"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectManager$ButtonListener$Type.class"
+hash = "b30314547c2fb1ebbfe6c8f65258872799e5d832356fb36c9d4f2e079f7e1c62"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectManager$ButtonListener.class"
+hash = "941566d1a3818f63faedf0f3157dfdb1a72b17bb84519f72ec50a93abe58dec6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectManager$DeleteAreaExecutor.class"
+hash = "c943bf0f138fb3f393b40af912d016ef99b1eecdb6b96b3451c6db127d85fd9f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectManager$PlaceToWorldExecutor.class"
+hash = "0c3ababc055dd13988950a61e648f4386615b12e2e244daec1dba15906fe5a80"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectManager.class"
+hash = "f6470334a5771b66414cefe2078b8bb3b8db472ecf00affc740c304fd6cfc155"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectsBrowser$ButtonListener$Type.class"
+hash = "3be30e27d4e1e2b319bb911a0090ec89b044b9b04223cd28731717f588826988"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectsBrowser$ButtonListener.class"
+hash = "d656e9842df936711ade2f6951518ffa82f7669c5ba3f9d0c2fea54f514070fa"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectsBrowser$ProjectCreator.class"
+hash = "d61eeee7b35697b4edbc13005f4ae4dfa602cd38c5b2a22c4cbd2d7eefff7457"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicProjectsBrowser.class"
+hash = "99f111d07c8debaa7ae0aab578a77b199f216b59d3e775267e0954f34a80e2d0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSave$ButtonListener.class"
+hash = "fb66b8b1fbe9fe98e43c33434b8ade0d58e7914c456955af0125b8284bf6c2c1"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSave$InMemorySchematicCreator.class"
+hash = "606f4f6af941361bed15cf07779d9f70ac04f3ba8d0ad438bd28bb7b0cc9c3bb"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSave.class"
+hash = "1a40257f48b68499a06e7eea79b8c314b744eac136d901e62b98fae494e5b39b"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSaveBase$ButtonType.class"
+hash = "f518cce91c58975025d631b5d7e32f4496a7babadf41398fbc0b893e28121de2"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSaveBase.class"
+hash = "4f9771f0291fa877cc8bc6b7ffbaf5e094a70ce20ff8a9d8c70dbe085302d077"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSaveExported$ButtonListener.class"
+hash = "628e906e710380d20bfbecc5c03280b57e12cb5f15ca5abc6e7780979bf601db"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSaveExported.class"
+hash = "d00015414c29fdf89f24a33760bf9087738fed458639597d42776291c6345be4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSaveImported$ButtonListener.class"
+hash = "61033c1c7ce70273dcb7323feafd1d1ae419445fef5071c8f6dcbad17286fbbf"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicSaveImported.class"
+hash = "12ea3f402312e931c157b1a39f5d18c64adfa3d8d0862ff7dbbb81116f0fada5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicVerifier$BlockMismatchEntry$Type.class"
+hash = "ffe11708969128f2c314affeeafddf04c6c8074c066da7de54f13ceae09139d8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicVerifier$BlockMismatchEntry.class"
+hash = "0e0537265ffb4bb5e99da755bfd24d6b0c32c4220e60fe3e7065e9d9b6382d6e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicVerifier$ButtonListener$Type.class"
+hash = "335518544e50448e89ccf784e70dead6bc7a90b7836a2921da9f2f61a5b29f81"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicVerifier$ButtonListener.class"
+hash = "c3e5d0aac372971000b3a10f4276061eb516a5e0770f30e28e48154c24435519"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSchematicVerifier.class"
+hash = "4fd2be3150b8476ee4a10286e76f9f972336574ede9036fa164205510d5ea499"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSubRegionConfiguration$ButtonListener$Type.class"
+hash = "bc0f94bb8e89d9731ae96cb6a7008d308fb791d11513392fe89291841fb9a89c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSubRegionConfiguration$ButtonListener.class"
+hash = "dae3795ba2e36a552bf114946e668ff89f5e9c7793e496068e80d0ebec377acb"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSubRegionConfiguration$CoordinateLockListener.class"
+hash = "4b851b79fc4173ead6896a03d5be2b0beff4d74a3cc53ac03d18e5b4a124a2ff"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSubRegionConfiguration$TextFieldListener.class"
+hash = "e3e735831e3be162f6b298e80ccef05230e7a3bfcc9dd8b2e36d84b2e04a4532"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiSubRegionConfiguration.class"
+hash = "d434cb4d9a1d72247a9f2404805899b82bdf5d6f4cc0909ce40404d40cea3351"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/GuiTaskManager.class"
+hash = "f41e1b570ac384524d59c05c1653a41daabfef71ce577c2e2e1c687146b96a87"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/Icons.class"
+hash = "f674dd546a1a51d17446012ba1e473601cec2181de100c2bc120a4d7ece614c6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetAreaSelectionBrowser$FileFilterJson.class"
+hash = "d21cfdf18074946e8cac6b68d1cbe6bcae6ca536439966a5b7213d4cf9127723"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetAreaSelectionBrowser.class"
+hash = "2baadfad4e1ced7f8aed8399cde614530995e0a9a1b25eec6d4f44580081ab43"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetAreaSelectionEntry$ButtonListener$ButtonType.class"
+hash = "87f94627a91421390f6e7e9de6f77ac5f59b79eb91f13e5fad7ffa8ab7c114f4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetAreaSelectionEntry$ButtonListener.class"
+hash = "8452f9468460a041b81eb79f8d8d1a85a14c60cbc833edbf51c0595d4567ca63"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetAreaSelectionEntry$SelectionRenamer.class"
+hash = "1a2b670489bbdf69c59c2eae869f76f53084b69151e8c8ef772f848f8c52b8c7"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetAreaSelectionEntry.class"
+hash = "4f52f66a7b18d261771a5af3b6e77cba329745ced9630bbdd4d5df51dc1882c9"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListLoadedSchematics.class"
+hash = "c551dcc55785140b53f98001fc6b7a4010cf0d6cc39bc7cb0e7530d454850f3b"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListMaterialList.class"
+hash = "670ff34b461388f825ba9525bd30379341fa211c433761b7b642a54346ff8416"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListPlacementSubRegions$PlacementComparator.class"
+hash = "908f475d2e1656df093c230335d41c652fe26e517fabfeb0b2eb176f9238d118"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListPlacementSubRegions.class"
+hash = "63df1a4fbe9993ec2347922f93730a3b1246043ce3025cbc478597789dcf9e90"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListSchematicPlacements.class"
+hash = "eb3d2f93e35369c5cddba440016d928a78e17cdc63941dbed1f1896c113cd3c5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListSchematicVerificationResults.class"
+hash = "da572e80ce8cf3a3d0135970a98fd06d20de61cf9ea2baf5794b6bc324cc7db5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListSchematicVersions.class"
+hash = "02fa75b396acb2f0abd1d3bb4cb255e33d6837d4d5468fbb869b6092975e23de"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListSelectionSubRegions.class"
+hash = "b401068b4fd35ce89905e3ba26a9b9ec40931e66fb916a051dcba18fd266d67b"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetListTasks.class"
+hash = "5f651f853bd47fd1fa7e26c4d840f94765907c595f077b0d44dea8c215631cb4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetMaterialListEntry$ButtonListener$ButtonType.class"
+hash = "8ebdc73910580577d3dfce846e399382b91e82b1dba3ef7c1fb7b3545ba589ff"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetMaterialListEntry$ButtonListener.class"
+hash = "462c08ff8c1bbdf9aa45ee637ae46507ab628395db2cfde7dc0b4fe21693e495"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetMaterialListEntry.class"
+hash = "88aa912b0c1d5c858046b34d197640bcad4e792190a1cb5cd89d8149519d87c6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetPlacementSubRegion$ButtonListener.class"
+hash = "54d25ef82c8cfb5fa9f1db820d8526b90ade05c2e2e3152c7f6cd08c485ab11c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetPlacementSubRegion.class"
+hash = "b64ffe07865a1256478570b74fae5d711f7c640e3145021b5a85f1a332ea6bfd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicBrowser$FileFilterSchematics.class"
+hash = "318e37e19bef8343e93e2403835244a0379f5a25dd97bfee6921a9bdcad1e72a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicBrowser.class"
+hash = "3569984c8f6a20c34a7311c3c58d997a1cab4764ffdcc4d1aeb79b64f117328a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicEntry$ButtonListener$Type.class"
+hash = "c857573b76e21436e0d7e3e41f35175d3903f91afc57c7d7cb42ab35ed6be9de"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicEntry$ButtonListener.class"
+hash = "9a6232622324d113287a447c408ef9e904876764649c7b22c77c69862dc11c37"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicEntry.class"
+hash = "902d5149be1ac7728f72008e976ce0c69b056a52c2df65a50f04becdba29bcc3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicPlacement$ButtonListener$ButtonType.class"
+hash = "b1be6171e93772ae460ccef2a9996c537c1a4e60f3dfe9c3c71d707dc4e4a473"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicPlacement$ButtonListener.class"
+hash = "b29331f2e46b17516581864411947077143f229b388e74ad862eae0c19d306fd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicPlacement.class"
+hash = "2c1a5581b607baab502db8d0d8a373ac31b4ffc28267e0ac64be28c9c50a778c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicProjectBrowser.class"
+hash = "c7e93d2e6ff9bc277ff23c931e72b4a50f4e470f0325e8f812d886ff945ef949"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicVerificationResult$BlockMismatchInfo.class"
+hash = "08f3823c82997fc6b5527093cef77e9b2f6610ecec280c937e49b92da7688132"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicVerificationResult$ButtonListener$ButtonType.class"
+hash = "1ca938bcd0eb3d00ce93071a66c8c7c45847867b5bdb75d2314141da5365460f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicVerificationResult$ButtonListener.class"
+hash = "62d921769e05822e18f7c7994c8bf1f66214b12c77efbec158c29e0894088921"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicVerificationResult.class"
+hash = "36548df2ebe48262448511fdaa9d93e82638646e00fa7067cdc1947b04a20c3f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSchematicVersion.class"
+hash = "75f802b700324a0cf61020d0aa1c6622f78b167f48b8c8c087525fe715c519b8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSelectionSubRegion$BoxRenamer.class"
+hash = "39dc462775cb6f1d37d0940a3746c03788c571e86543f4dc5be13d9f0432aadb"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSelectionSubRegion$ButtonListener$ButtonType.class"
+hash = "cc5c6eb1abff1c88cf130204af927ef3cd5795d637ef1875495117b97724334b"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSelectionSubRegion$ButtonListener.class"
+hash = "83f9b6005919199ba822a0f15e1938b78b803761db24108748b57bc3ea3fd7b7"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetSelectionSubRegion.class"
+hash = "d0fcd82dbfa019f4e3d91081575538002f563f3e8fc02717c00fe75112ffbcae"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetTaskEntry$ButtonListener$Type.class"
+hash = "5a88d08ba8892594859f5d9d8eee08ff9b45fcaf7aa88a67e734ab6a7431d4a0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetTaskEntry$ButtonListener.class"
+hash = "aebf6c11d93db41684b4e9d51b38a3a8a63d950a1966ce2e40da9d7dfc627420"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/gui/widgets/WidgetTaskEntry.class"
+hash = "140ee29befdca68614de96f7f0c9b81502d0c37c61e246b4fbdabef6cf7955c8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/interfaces/IMixinChunkProviderClient.class"
+hash = "9e51a3253ddcfb9c2257c9cca0f12732f95e3d81b3b8bdb6dcd27f4303aa7cce"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/IMaterialList.class"
+hash = "1016304c1bd83b89e5a38c296342a0fc57248a2c71ec06c4e9ca183d44086f2f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialCache.class"
+hash = "7ace4dbb1e09a11da932862fb26ad7a08e55e746ccc40eafc992395484ba366e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListAreaAnalyzer.class"
+hash = "c1feb12b25765d06354be89171a32c1142c6dbea71487f81d39fcfb6e8685ffb"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListBase$SortCriteria.class"
+hash = "c546e717528098fd6263fcffd4dcee424f095d1807aca9084c335955f5527ecc"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListBase.class"
+hash = "3ae6b9cc5bc2dfcf8ab0f67e8e9c466fe54fbb13df900842fe09c96672ba28ba"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListEntry.class"
+hash = "1a3acfaa6e44c17a57358ef5a8ada22ff8aed329450a9ff2dd4508f9b9acd7a6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListHudRenderer.class"
+hash = "846e4213c09a9e1916c75716f7b37b3ac10f139c7c54101b3fb71bd83e482c65"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListPlacement.class"
+hash = "3ad936d2e731dd5237d034a3495a4e6a413178897fa385fc84da6d125ab7bc68"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListSchematic.class"
+hash = "0356f81dd6025c4f2f35b7b6d50fae1b5e668b57795fe2219c0ead34b93ac4f2"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListSorter.class"
+hash = "da61e3662a2f1ea8e7e54e78630259a463e51599f4aa742e111578af7e7d2b2d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/materials/MaterialListUtils.class"
+hash = "7a2c32b931788af1d8b8ce2cdd86e75cbb59ef1a37c79b55c8dd2632f657831e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinChunkDeltaUpdateS2CPacket.class"
+hash = "cd34c0b2894ff0fabf63317287b1642a2f1a1d0fb2308035b703972906f5e181"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinFenceGateBlock.class"
+hash = "726cd7336f81603f7cc2c0b583f3ba50bee8f42018fb782d6b125bf48f33cf17"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinHandledScreen.class"
+hash = "4bf6ca2d7142efcef92e84af6fea73e8e74469d749b45d5fbd9ba33426540380"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinRedstoneWireBlock.class"
+hash = "ff489739ffd59d40724ee87e5547572acad0fcfc07f49444fc3015a6d579eb20"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinSignBlockEntity.class"
+hash = "b1fc9c518a3653848e5ea1f729167df79896871286e102ac406d313d5a79ccfd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinStairsBlock.class"
+hash = "c9d660fb4f588ff4bfabe5581c678c4c7817f5e9c0f03cc1df7ba3994198adde"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinVineBlock.class"
+hash = "5a64c7f46e7bbf1f352293c2426beb61705ac50025f485d14984b64f0d963e3e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/IMixinWorldTickScheduler.class"
+hash = "f20e50dd22442162be70c00c614f89d81ea8ec7f40278a3919d1253c111fc2df"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinAbstractSignEditScreen.class"
+hash = "1ad3b995821a025bb3a9a40910a331fb7cf07efa17e01396a32c4cc018656b1b"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinBlock.class"
+hash = "16a1741b4aa044ef9963d1d2d484e81665e9bde2f9e62440330e98c85fdee63d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinBlockItem.class"
+hash = "fc736edbd71264c73aa0fb99354b480ec99ebc3833feb1015c6a00c0c20384b3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinBlockStateFlattening.class"
+hash = "fa6dbdf00284e73df7a29d7ad79220a3e1aaf1cc86760e9db550fc4a8d7d4fb5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinClientPlayNetworkHandler.class"
+hash = "56764a344c3bcc8ae2924e1218085c36672a510577d5a7e187de0a470e4ee3b0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinClientWorld.class"
+hash = "c071cd33dc08b9a2826c492cfb9910928d900d629090e78b6758dfb96173349a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinDebugHud.class"
+hash = "b4f52445dc4a4fe4b0b84e8085a1145d2423a426d002004ed492e4a214fabff7"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinHandledScreen.class"
+hash = "b0131226b75015c335b5de3b6f5bf7fa5b4dbea6cbcb3d35b7b5e13d382d5fe8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinIntegratedServer.class"
+hash = "9e7e0ea4b873755c69f9d47d6d6af67c4eeb1fa8fa32f8bbb714b29e149ab0b4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinMinecraftClient.class"
+hash = "1737a3425afb5c93fb2919455da4618d0d55a19b5ded8a2d54ae3a70116e1f6d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinModelOverrideList.class"
+hash = "b59552ae6bb9caa5176816999b4171ca76c1b96110207d0d43a4c2066fd836b2"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinRailBlocks.class"
+hash = "5e7fadedc73c43ee1cfaa4a0f03d7407492a1a37373ca0ae4414897569a3e3d7"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinServerPlayNetworkHandler.class"
+hash = "34eb18ec32389def19afd8fd79098da5d6fa94670041486cb27fa230de048d8d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinWorld.class"
+hash = "b29098621459977c5505b23ba4374397ef0070611396e3c465832c37766c72aa"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinWorldChunk.class"
+hash = "e54f2fdb22b923bf91506f072f3a1737d44ffc38d99eb053c1f60399451a74c7"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/mixin/MixinWorldRenderer.class"
+hash = "be2ae79d6c784c9081d5e4d060bc6134a63f5d26c29bd69bd9b806f5c281343f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/network/CarpetHelloPacketHandler.class"
+hash = "2621fd0380b3b9f2fb0f0e1a46870a5e214bad62a07b9f0eea0f80a50b1689bf"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/BlockInfo.class"
+hash = "2e511c169525b3414c44821cd010d8d731dfee3231acf9d8bad8dd4fdaae4056"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/LitematicaRenderer.class"
+hash = "754a56371c9918ec48a5384a92369a4bc66db245a620b16b7556c141924db534"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/OverlayRenderer$BoxType.class"
+hash = "add2ed254a7dcb6fe3a16338159618584b1fef3637c877059bc94422889a5dca"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/OverlayRenderer.class"
+hash = "923c06db282ee2d889ef0427a2397df7764c474c4a5844b5fa5391cd092f4427"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/RenderUtils.class"
+hash = "2ec288db53fc1508d1ce74a084f2948be351f154924bbb923b7cc0ba12859234"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/infohud/IInfoHudRenderer.class"
+hash = "8019eda6509cd38b618b88bedf5a0b63c5651b65278125dc84c7e78284900430"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/infohud/InfoHud.class"
+hash = "44661896000eb27e263b3b7661636952d412e8b786d4e2d41f5d6aacdfe74527"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/infohud/RenderPhase.class"
+hash = "d4dd6b87d7a258c840ddfa288a4a4f923ecaa70d9aceb7a9fa19f7ddeaa815b3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/infohud/StatusInfoRenderer.class"
+hash = "e9ac86549e4e40f843def392d529ec1c1bf216a360f6bf1299d2998c29851c4e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/infohud/ToolHud.class"
+hash = "002573803d73ac0435870a82257429828e5627a961942d02ad64b5144014f734"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/BlockModelRendererSchematic$AmbientOcclusionCalculator.class"
+hash = "0946b24f8733322ef2ad140736f58e8e4c8adcd465fb9d36c4d98d176b17a0ab"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/BlockModelRendererSchematic$EnumNeighborInfo.class"
+hash = "21d965d8ee19e76b58800ebeb543d3bf271ad59545cf682a19c756287e26f3c9"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/BlockModelRendererSchematic$Orientation.class"
+hash = "456c4cab4e18e3f4ecb3b604e3937a692aff33cef6d48872af9f6f8390afc488"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/BlockModelRendererSchematic$VertexTranslations.class"
+hash = "69fecfdb336a7d75cd222c1c881ddde2c3958102477fc8b33d6e4933a483a727"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/BlockModelRendererSchematic.class"
+hash = "773914d0d0131d98497b8b571be62e9abbfd16e42568b724d113a77da0e4d361"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/BufferBuilderCache.class"
+hash = "4f258662c41d6969e2769967c41066d68ae4c881267f3beb4568c48aa7baf200"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkCacheSchematic.class"
+hash = "b68911f3112b14e8f7397cfb2846df33b1c9f041c1c0e666a9bc4dcbfa87ca56"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDataSchematic$1.class"
+hash = "f84588a0558a594e844946b516370c9f4547886159aaa1d8c159eab3a5988274"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDataSchematic.class"
+hash = "a45b67402ae2d0b12cafc9f2f023df98cd72790daf1c69a81b17e19e99e8c9cd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDispatcherLitematica$1.class"
+hash = "61739584d16998b4779257e9aa9f0c67fd69e76fd1f4f0b2938178d011bae21c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDispatcherLitematica$2.class"
+hash = "de57fbc90c9a5ca546203d7d48dbd41767120c93922594a84ba27088bbddf184"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDispatcherLitematica$3.class"
+hash = "3e261cbe0af18737f40a3221aed158ec717f4f883d551f32615517da4606449e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDispatcherLitematica$4.class"
+hash = "0694e9715f3d070bbe2bf0d0c565d6b24ecb4697c15240ee451520b4d7a098ad"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDispatcherLitematica$PendingUpload.class"
+hash = "42606b54778e7ad833698e7a3893288926e836c1de37c8c164c57a6046c7e31d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDispatcherLitematica.class"
+hash = "b7674815ea5830683d5c8f021f0213e680119d4bad05a8d9d204ab8ba7d7f487"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderDispatcherSchematic.class"
+hash = "e7d2e7d3002c6ec3e26e85bc153408b84874b2f75510101a6069a2cdd1948a04"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderTaskSchematic$Status.class"
+hash = "c77f9f7eaf0e911ab676144f1ef83681309fbc61705400910d231a20bbae9677"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderTaskSchematic$Type.class"
+hash = "0317d5317a0f46638e71ed33e1034bc61bed14ecc688228948f0f1c5b5c064f6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderTaskSchematic.class"
+hash = "ccd9c563bce48336dcdf85982c9a1b1e2720e81c68302f1916a52501ca959c77"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderWorkerLitematica$1.class"
+hash = "1752a5a9f4c1af139adc97b99ed9263e2359491929b9e76a87947661514b5853"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderWorkerLitematica$2.class"
+hash = "01c483220cab785b4791a0f64c80be8d93203949af3cc9043b575a367b0a8c47"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRenderWorkerLitematica.class"
+hash = "8d4e5b2f643b2c31b667465757584c3e585548dde53aadcce614ee8e99ed454d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRendererSchematicVbo$OverlayRenderType.class"
+hash = "6e3b066efac2d7d0548d179b580abb84a74ea22dc32d856c61ae14cd8b140766"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/ChunkRendererSchematicVbo.class"
+hash = "bb6ab9f0b4779ae70d7f2583fa7b742e86ad7da87593e0ca79f74500e5ea662c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/IChunkRendererFactory.class"
+hash = "1c9d0b272b28741e013f3e16f6c7b0e15c1a3465c746d8e88d5220735ffe6676"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/OmegaHackfixForCrashJustTemporarilyForNowISwearBecauseOfShittyBrokenCodeBufferBuilder.class"
+hash = "12cba05d28e74cc2b0a24cc3217a66c8a45f5b9ebc806fd6ece7b042c5113bc4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/render/schematic/WorldRendererSchematic.class"
+hash = "929c2752d6fc94ffa367a0e383d052636bf9d4f9b73cb97cca70c7f159a2db57"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/ClientTickHandler.class"
+hash = "99414de802a6a0b222aa28a7a6b69e55a980f3136fcd4f5449953499cbf863ca"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/ITask.class"
+hash = "f6601357556975872691911e4e6365be4597c578fe9561d1267bda78d4893006"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/TaskScheduler.class"
+hash = "aa6e31a9a47dc09677b48b7b309bc795fc10e61d23eafd6e2ae0bc1c33e6fc6c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/TaskTimer.class"
+hash = "f980c4638580f2257bb4a00cdfcb34db31156e5c4763527be0454271e00bfc2d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskBase.class"
+hash = "0b8ea5fcac2b9dcdbc7ecd59246794fbed4f2f9b6af3ca8a752e3fbdc76f24a8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskCountBlocksArea.class"
+hash = "f24da582fd67ceedafa4ffb6ccad9312ee6ff210f278c8b61a5d680c1589c05d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskCountBlocksBase.class"
+hash = "87e03f7af322a1f648daaa163becc65cd4e02ec8c4fd708ef82ef554dde68bc5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskCountBlocksPlacement.class"
+hash = "baaf77f83ce87affa5a0b15f0b99a7d2c15c67eef9cd7d33e4328c69ae9d8d7c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskDelay.class"
+hash = "f4a8dcdddf51ad2025169483148a4aab0d2ac53d4e95d16e537dc6de26359d04"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskDeleteArea.class"
+hash = "3bb4cebc4d8f14fab2811028a03f15b84fd2ec339f22865661a959648b4bf855"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskFillArea.class"
+hash = "40b7f26a30a6fbf09d06bde0e0801383f9a2a883ed37392246266af66f7af29a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskPasteSchematicPerChunkBase.class"
+hash = "e1d1f3d997b6009c2d831df5db0237184dd0232a0e4669db389dcd98503b7b35"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskPasteSchematicPerChunkCommand.class"
+hash = "10ac5aeb798ae96dfa30d16a14bf7dc3d7a2c9e781b8ea6d45757fcd95cdba39"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskPasteSchematicPerChunkDirect.class"
+hash = "d89fece703bb7121632b93e1f32537b35ef96a00e2409ec9c1e9f4c07941d99c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskPasteSchematicSetblockToMcfunction.class"
+hash = "7cafca96316bae96b93b934634e7a90b524ed0682c352257b60187c0668aab3e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskProcessChunkBase.class"
+hash = "c0e03343092313688e3b63e93645620a3afdb52c5726e61d9c990b5706e1bc03"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskProcessChunkMultiPhase$TaskPhase.class"
+hash = "1543c8da628a8ecea13a4e12e0bb2524966db0167e1eb682060706f15be69e4d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskProcessChunkMultiPhase.class"
+hash = "063d84902dc664f90b40b1e7adfa5140381516b2374738454b1ff109ab3a4fcf"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/scheduler/tasks/TaskSaveSchematic.class"
+hash = "7ca60ac8d36e23792a33a270adb7c0885f5d4b3152ca926210658b36b5686b59"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/LitematicaSchematic$EntityInfo.class"
+hash = "11cc272ecd9dfcd317c844d4ee89a2288ff637c66bd43138a625e4789cabdda6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/LitematicaSchematic$SchematicSaveInfo.class"
+hash = "bcd9a71a96c56e8f3812b7df0b3edc93c0759ad5516beb9b2866cb9c087507b3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/LitematicaSchematic.class"
+hash = "8510b6941617858f728c06dc316af3ee0cabdb4f6c8a6df0c927a14f3a34e5d9"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/SchematicMetadata.class"
+hash = "e7bfbd69cb26fd9e2edcb5c08d28c24b69f7279b137b472a730515991cd6fecc"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/SchematicaSchematic.class"
+hash = "9c3bec2ef02b9cac7ded4f8e6bfe2cf1e1986397b0f8728906ff69f613f37046"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/container/ILitematicaBlockStatePalette.class"
+hash = "4e0759a577c9c275ac9495f519ab5c65b6b6168ed4675a626d3f4f038c37f4f4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/container/ILitematicaBlockStatePaletteResizer.class"
+hash = "c0642584c0e92c1fcffa5f09c5aca10609e70be88a0517e26ab19ce4fb4e0e24"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/container/LitematicaBitArray.class"
+hash = "1746ca2b7a1140c2a4f154f8d901d078290b812f100c8f8c73d5fa744672a4d8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/container/LitematicaBlockStateContainer$SpongeBlockstateConverterResults.class"
+hash = "8d9d2a3f860eab9500a2836921a31068aedf77556081fb559f8a9be49c755cb1"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/container/LitematicaBlockStateContainer.class"
+hash = "672ec553983b7c02687d2152854c852a2883dbc938467e79ac1ff9ad637f06fa"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/container/LitematicaBlockStatePaletteHashMap.class"
+hash = "842157469a4cfe706498a717bef212a6ad55015be9f7ce2ca1dc2d6520157989"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/container/LitematicaBlockStatePaletteLinear.class"
+hash = "c98b8a2a4b441f1cc9da1de22d724499b1bcaa5b363258701d52c5f18a363bb5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/IBlockReaderWithData.class"
+hash = "6ff652d042e99be7e3ed58adcd6d9d417313e663a3575325e10b3809967b8151"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/SchematicConversionFixers$IStateFixer.class"
+hash = "f43dfc49f2a501048e93b4ad2248ecd6217ede0797c0869796d5847bfcbbbed3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/SchematicConversionFixers.class"
+hash = "f9c9a99725ef2bd1cc37a65947b7acab59953146993f0c0056aa0a3b53370622"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/SchematicConversionMaps$ConversionData.class"
+hash = "d2b67ed0bf7ec9a1bc848171b8fd14bd09e81eadb4dd21ee535f6dedb0af0f73"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/SchematicConversionMaps.class"
+hash = "caf96a83748b98e351d3224ed21847d162fd019cc360b65fb8a8b2c98b6b233d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/SchematicConverter$BlockReaderLitematicaContainer.class"
+hash = "f1091a76862a6c5bf0c4694788a1cb0c0b5d7f94b76a75a937a2f1bf492862f0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/SchematicConverter.class"
+hash = "bade75975cc57755d0cfea3adfcf540a4db53f71b2c74d3ecafe69dd29b93e65"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/conversion/WallStateFixer.class"
+hash = "c01ceb530603a0d3c41ed4d95f5e3f3ad2da9feb674e2d43dbe50c1ed4b869b6"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/placement/SchematicPlacement.class"
+hash = "2aef6edb4173cd1147571c577421568caca00fe047e7579f18b770684d31edd8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/placement/SchematicPlacementManager$PasteToCommandsListener.class"
+hash = "6746eaa3b1d08c8abb836c7784fa15a10ab29d7698894a434153abb88efd5cb1"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/placement/SchematicPlacementManager$PlacementPart.class"
+hash = "50f7f96777381d81115174d553713a53f0b0d4f3cb6e3f0acf58a014986ad332"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/placement/SchematicPlacementManager.class"
+hash = "0f5e4549b3374739612134bba049ff2a8604f531e37f9ce88c33f8f30bce093f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/placement/SubRegionPlacement$RequiredEnabled.class"
+hash = "5bb8ba630c24f8f7cb972bd48e356ba893f1e6f1fecfdee9c36e6c5e18b16b2a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/placement/SubRegionPlacement.class"
+hash = "08da238953954b6db5099cbb9ed62d89f37f1c539b0869fe1abadb8228fe4069"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/projects/SchematicProject$SaveCompletionListener$1.class"
+hash = "489110f2219621b486a2100a95eb8bf2e8220dd2b688f804e34cff549f9f37d5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/projects/SchematicProject$SaveCompletionListener.class"
+hash = "7ea52cef293167d6d4c688691b2c86c9fec5cb379da2ce76c77e5726df92905c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/projects/SchematicProject.class"
+hash = "73b523230838f3fa8329268f7eacd035c4b1fd6f56bd678729942182db95ecfe"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/projects/SchematicProjectsManager.class"
+hash = "586716d7c57d25ea0932236029ae95b556af684a99300d18ecb73cf7f87f205c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/projects/SchematicVersion.class"
+hash = "076143131dac15e4600611340228d6918d793d0f0f59ab33c5282bb146ba59e5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/verifier/SchematicVerifier$BlockMismatch.class"
+hash = "62d874281e613892a8d023cc895956c8211293e2b8529018500e84b48e326e19"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/verifier/SchematicVerifier$MismatchRenderPos.class"
+hash = "c15ac4d121c7bbe06a9f5b5c8d4a63707511c16c5be3acb64b7fe8988c4312bb"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/verifier/SchematicVerifier$MismatchType.class"
+hash = "96627fabacac9518addbcae88ebfdf668ffa4103ccb747591b473877217ea257"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/verifier/SchematicVerifier$RenderPosComparator.class"
+hash = "4d35b91daaa2ffb12926f363471c326f09ca0ca365befc7f1f61d30747af23fb"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/verifier/SchematicVerifier$SortCriteria.class"
+hash = "6443dea35c925ccc967659ef440eee9f98a1afd758e4b9076995d066c842c285"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/verifier/SchematicVerifier.class"
+hash = "15b6c5bc62428c91c4b9ab73d3e8dca67f087731c34af80f217fc19c56aab8c8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/schematic/verifier/VerifierResultSorter.class"
+hash = "596977df9df8f9dcbe598286222ec93d609317c8085502f2e2c115af2cbb647f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/AreaSelection.class"
+hash = "5ad327e146abe6f49b72d24057f2285e694f33167999b6d429343702ae8170aa"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/AreaSelectionSimple.class"
+hash = "3b8604c73a66665b5646e20480f65e014611b9f40b96b4b95a8b5a8fdbfbc4f0"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/Box.class"
+hash = "155d45241bf95826aa649df60e23de7345e9f7942e71d12ae6a404b45280ef79"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/BoxSliced.class"
+hash = "13b341bb465608233090cb5010199a6b2d633a2ded796d12644859244994b496"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/CornerSelectionMode.class"
+hash = "04f500f35f13075c3b9b1aed882f303b8070dfd0e4c8c59d7b8e57d07b7e3ae5"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/SelectionManager$GrabbedElement.class"
+hash = "bc3a8890191a3293b8027f18fad7d398022c51f6b7272bbdb51da38253288037"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/SelectionManager.class"
+hash = "deb28b0cc29d11f9f94fdfff83199bec37d88d9b281b3f6c6ec60996c6dceaa8"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/selection/SelectionMode.class"
+hash = "0ffe2d249cbf130adfeff0d219ddd5c1151eaf4968fa1267e9461e2079d5c5f4"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/tool/ToolMode.class"
+hash = "a7a8de1ca74e6a49928307215701e9be27cf22d805b9da672a257017e8ebe4e2"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/tool/ToolModeData$DeleteModeData.class"
+hash = "d2099681f1a6316cbf2745311bcdae5b16eefe9011df6c74cb8bc8213d305426"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/tool/ToolModeData.class"
+hash = "0e1748fe074d8cac615ff29ca6193af37f6d753fb37b5f1c12627f5de668e1fd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/BlockInfoAlignment.class"
+hash = "c7b7fdcc6a5a5bf5ff9afe08698bedacf1ef2f1a416cec11216fafee630c7a56"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/BlockInfoListType.class"
+hash = "1d850bdede9e02728f403bc732f3bdf59f9d0fc95c705671954aa745b115a72e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/BlockUtils.class"
+hash = "b67129f20d79adc69d25f4020350a89bc84b15c85e24923824141cd33b350037"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/EasyPlaceProtocol.class"
+hash = "c1d3e085f325923f6b6b8aafb4f1be8ca46e1460b8fed750b8d816ea65353a0c"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/EntityUtils.class"
+hash = "e2de74699230739d6a1ea8ba1e2e10eb32903a5986afc84a8837a1cfca14fa0e"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/FileType.class"
+hash = "73c033e433b6ee1c6bb0219e38aa46b68f9b0eb4421ce433f65050ca365d8b43"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/IWorldUpdateSuppressor.class"
+hash = "307136ba561067ae8f79c99157e385b31f17d119fc8aec41fd6e4e4c6e1cbb72"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/InventoryUtils.class"
+hash = "0ce8339b77fb1b4f537c31324886a55c7d5339e15ab80eb3e7d65d3de596694d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/ItemUtils.class"
+hash = "145328512b5f0fc9a755621af96c06d135865bfd8b6241bb58a83868cd015630"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/NbtUtils.class"
+hash = "250cc6a5ee3815e9335bf6eee7042549e415956672f7f382f0b98a2a89514a05"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/OverlayType.class"
+hash = "366fc6714f7b6a14b19b61893aea2dd71fa7163802583fcbe25fdb348471be10"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PasteNbtBehavior.class"
+hash = "7768b7651ac3732bc456dee5527638e4ea658d38fbac89f4f55e7e239189651f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PlacementHandler$UseContext.class"
+hash = "66e6cb73d6caf6766f7a01e03e2b19fe51328dedadf34f5cb0c7f81442233a72"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PlacementHandler.class"
+hash = "5b7cb78ce1e7b5644c98ef30a97fde43a2d5f056883ef32cafba9ff731388a9f"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PositionUtils$BlockPosComparator.class"
+hash = "c8224644b31e62316c240b2481f4ec215313f63b6cf1b50116d669b2a937d0da"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PositionUtils$ChunkPosComparator.class"
+hash = "618c9045bd5eae734075105099366754c6018bfc25ddeedcf01cf8658ab5df2d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PositionUtils$ChunkPosDistanceComparator.class"
+hash = "36681fe7bb5b06eee9a0402bd0aed36ff734449c6849ef8ee862cdef17007c8d"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PositionUtils$Corner.class"
+hash = "00f8cf466030416bc2c221bde7e34558f7cee9c90448ea586a2c91ef54392708"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/PositionUtils.class"
+hash = "3680bfd4d3f73169a92a5ca8c2189dad9bfa33f3adaaaaf696a9d65089cf6780"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/RayTraceUtils$RayTraceCalcsData.class"
+hash = "dfae7ad7fe4bbc869e85ccdf2d8827585693c409f1282b343258645b6c8dc6ca"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/RayTraceUtils$RayTraceWrapper$HitType.class"
+hash = "3e3d9a8e70d10bd26682dfdd5033f0ce025c337c77fdad4764053d1720f3f335"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/RayTraceUtils$RayTraceWrapper.class"
+hash = "706559945b71524a50d27744426672782ecac7230f50c4fe3de0f2adb8d09415"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/RayTraceUtils.class"
+hash = "9b242416209ba38345150761d0b1fee27e09027d9b582d314b3b76fcc35aacdd"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/ReplaceBehavior.class"
+hash = "bd8d785daaadf273fbbac1fd47258740d1b9d7f6ea34fd1916409bc2ddc5ee39"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/SchematicPlacingUtils.class"
+hash = "d1bf03c47ba44763209c46a244a66f5f9a433e2ae80fbdaba4bebe2d9cdf205a"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/SchematicUtils$ReplacementInfo.class"
+hash = "4989530c8d6b370ab5fce91fcdb3025ab126000a892f23ea20c8ad16ee619740"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/SchematicUtils$SchematicVersionCreator.class"
+hash = "263b809dcd2889b4b9fc72b6b5b2f5117372596c2e7702f211319271df7174ac"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/SchematicUtils.class"
+hash = "32cbaf1dd789eaedf219f644a52fe6dfc4f9444a5141f319744a94a73c07e7ba"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/SchematicWorldRefresher.class"
+hash = "343fc141dd90480c0ea48dd12eb0fa01bc89c7089a22915b248e3958ac42d510"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/ToBooleanFunction.class"
+hash = "fe2b3af44e6a8f76b4650021ce8f2a37b46825a59910730cea1e3a4ae05ece69"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/ToolUtils.class"
+hash = "2638321b0889284bf5b5f567978961ab2691c67c2eb2f73d828dffaa56e3f6c2"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/WorldUtils$PositionCache.class"
+hash = "ed9691565117da6f033e64c5d729372d41f536a24bb050b32b50c88ceb515118"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/util/WorldUtils.class"
+hash = "05285f083476fe0ab774e96b7d224c8c59e5fee98f723ef5a460f662937003e3"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/world/ChunkManagerSchematic.class"
+hash = "51816ae21c5733af3d5fe09f2b5701f2a9e6d60199722a777c3bcb758a1832e1"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/world/ChunkSchematic.class"
+hash = "ddf720da5be7a8ee197d529a69017506b926c75d4dce652d5e81deea48f0faed"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/world/FakeLightingProvider$FakeLightingView.class"
+hash = "33d7e285ff9819e3385bf232c37da06184f233d1d31646de0ad30bc4e85ce404"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/world/FakeLightingProvider.class"
+hash = "cf76d9550d5d31347a338116e0e6ab7321cbf33aa196f7faf9b14cb01d395703"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/world/SchematicWorldHandler.class"
+hash = "be596b8bdf95e46baa680879545c933b4eec58ee9ee6defacc6681a781ef5184"
+
+[[files]]
+file = "litematica/bin/main/fi/dy/masa/litematica/world/WorldSchematic.class"
+hash = "4320a99c3341845c167c28baf9ec0a93ab3f4c34b5901aef65cb58e2fe8ec5a5"
+
+[[files]]
+file = "litematica/bin/main/mixins.litematica.json"
+hash = "4d9beb9f1ce3b830ba5d6d2cfdad3027a03e9550f64aaf8e478dc9820ac2d2d5"
 
 [[files]]
 file = "litematica/build.gradle"
@@ -1558,7 +2886,7 @@ hash = "ee02f8d6855b79882616947a95bead16cf17eb80f5497ac2104aa5273007fb35"
 
 [[files]]
 file = "litematica/build/classes/java/main/litematica-fabric-1.19.3-refmap.json"
-hash = "9ef187598a61f1bd8fb80bcd075d4a9f320fe3e031df03cd5ed76544fc364f9b"
+hash = "5dac328b158c8752386a041dbc92f38decd436209ecb61e809812f26f12a9378"
 
 [[files]]
 file = "litematica/build/devlibs/litematica-fabric-1.19.3-0.13.1-dev.jar"
@@ -1570,7 +2898,7 @@ hash = "8df1e69d14b4d37481a1afe89ce60f188551bb20d9ac755e5c07346165998e1c"
 
 [[files]]
 file = "litematica/build/loom-cache/mixin-map-net.fabricmc.yarn.1_19_3.1.19.3+build.2-v2.main.tiny"
-hash = "6b406b3d99c34a1d31271caf8c21054c4c86190051cd014142fb5ac5fbdd99a7"
+hash = "22f68bd4d98dfc9cd2efaaf8708db7a0a20f24484cf67bfd0066c50a642cefee"
 
 [[files]]
 file = "litematica/build/loom-cache/remapped_working/net_fabricmc_yarn_1_19_3_1_19_3_build_2_v2.com.terraformersmc-modmenu-5.0.1-sources.jar"
@@ -2539,7 +3867,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "621ca00937c28f7ec4aaf53d58f72317219776318693342773056dcb325b87b0"
+hash = "e858fbca6078746b3ee590387fa14567bfe949fedc05667956df3d9f795481ef"
 metafile = true
 
 [[files]]
@@ -2604,7 +3932,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
+hash = "9bc62d6ff782ff539dc26d753ff006bc576bfd0fddc6a82b9837080a08999ef8"
 metafile = true
 
 [[files]]
@@ -2629,7 +3957,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "31e6caa20a856e7c70930ab46154e93ffe4c5f371bf520561ae90cd418d976b1"
+hash = "9892a0024b5f2aeb4dbb9b39f3ebc518c4661ba31b487dd332b879ba22bcc4fd"
 metafile = true
 
 [[files]]
@@ -2692,6 +4020,11 @@ file = "mods/litematica-fabric-1.19.3-0.13.1.jar"
 hash = "8df1e69d14b4d37481a1afe89ce60f188551bb20d9ac755e5c07346165998e1c"
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "cf07a47ea9c4bfc5ec4630e4efa53db9f317f654055347210c9adb62f63f6057"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
@@ -2699,6 +4032,11 @@ metafile = true
 [[files]]
 file = "mods/logical-zoom.pw.toml"
 hash = "c33d4c86ca2416368635e5cef98bf8babb019b74eb77249ceedaed81812494fd"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "793ee1ce6df3caa67c66271b1591f0132974c5ba8e798d2e7a3258975ffe4b23"
 metafile = true
 
 [[files]]
@@ -2718,7 +4056,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a7bd1128cd6458ea3062d2a05a6c5c21821cec143c9f0520c1a56e6791d28944"
+hash = "c6932018158da544553f88b977bed1946f59d9c86685f2023b0a9ee196fc3087"
 metafile = true
 
 [[files]]
@@ -2748,7 +4086,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "607a572b261275eb0a90133208e8fbef990b886e91a417008726c7b6eafdba27"
+hash = "60751c23742c690a206d5010ecc15fb29a486fd043eada4ab08afa9a46b8046f"
 metafile = true
 
 [[files]]

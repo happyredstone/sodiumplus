@@ -1,4 +1,0 @@
-[submodule "litematica"]
-	path = litematica
-	url = https://github.com/maruohon/litematica
-	branch = pre-rewrite/fabric/1.19.x

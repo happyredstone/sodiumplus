@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "fac751a01f387559c02fa89df8840ea939c5b842e86751620693d130a0317830"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "1032be27cba97e6f12e060b210d7df3d3f3cae3099a66f1b1bb4c13b17786016"
 metafile = true
@@ -148,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
-metafile = true
-
-[[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "037642da6cd5470a74db68df2f1d445ac1eeca74ee5930fcd2e6cb7da3459a9a"
 metafile = true
 
 [[files]]

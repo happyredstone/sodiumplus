@@ -1,3 +1,8 @@
+# v2.0.0-beta4
+
+- Removed First Person Model
+- Configured REI
+
 # v2.0.0-beta3
 
 - Updated EntityCulling

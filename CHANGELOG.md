@@ -1,3 +1,13 @@
+# v2.0.0-beta3
+
+- Updated EntityCulling
+- Updated Architectury API
+- Added MixinTrace
+- Added Fabric Skyboxes
+- Added Default Dark Mode (optional)
+- Added Even Better Enchants (optional)
+- Added Hyper Realistic Sky (optional)
+
 # v2.0.0-beta2
 
 - Updated Chat Heads

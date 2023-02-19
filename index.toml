@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "00bbc94e36588939e7080380a4508de0a7dbbff9899256eea7476ed5ff4b3352"
+hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9bc62d6ff782ff539dc26d753ff006bc576bfd0fddc6a82b9837080a08999ef8"
+hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
 
 [[files]]
@@ -128,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
 metafile = true
 
 [[files]]
@@ -226,6 +231,11 @@ hash = "6e5347e620dc497321b87d71ae2afd8f70c1ea22a7d212456412b297e98c9445"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
@@ -308,4 +318,23 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2b4cb9091f5c4b70abb3f6d80d3da9567e0bb405f728b8efb9e4396268b814d5"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3e1c21e70091b807edf8ed781ba2dc866408311432411fdd432289f4d0f46926"
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f49a4abd79e62991a2dace30480d7618bc2769de906fb51e19ba5f95ccb7a7dd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "562b9e607a593b969dd245628b3029de5ce9b9aa6f89138c1f25880b1b6dc7f1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-realistic-sky.pw.toml"
+hash = "460bc14bdeb239ca722c5665ec4a6b1130c307500e2259f79c8cdbc674ca645b"
 metafile = true

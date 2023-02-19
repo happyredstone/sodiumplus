@@ -1,0 +1,7 @@
+*.mrpack
+*.zip
+.gitignore
+LICENSE
+README.md
+.git
+.vscode

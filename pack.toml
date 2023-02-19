@@ -1,12 +1,12 @@
 name = "Sodium Plus"
 author = "NoSadBeHappy, RedstoneWizard08"
-version = "2.0.0-beta1"
+version = "2.0.0-beta2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "80cce1920ab226016474a3ea4b45f9515bd0c15d5c4a6a4eed8acc8835a15b68"
+hash = "421d1befdf324f3e4ae681e91218aea3e5d0d89a12e60cd0d7f5b5ff022638de"
 
 [versions]
 fabric = "0.14.14"

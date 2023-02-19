@@ -52,7 +52,7 @@ Please submit any bugs or feature requests on out GitHub issues page: https://gi
 - LambDynamicLights
 - LazyDFU
 - LibJF
-- Litematica
+- [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
 - Lithium
 - Logical Zoom
 - MidnightLib

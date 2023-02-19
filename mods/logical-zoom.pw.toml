@@ -1,0 +1,13 @@
+name = "Logical Zoom"
+filename = "logical_zoom-0.0.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bOImuGU/versions/LqiSaocJ/logical_zoom-0.0.18.jar"
+hash-format = "sha1"
+hash = "0abde446baff909ffa674a9562b5f7b67d227195"
+
+[update]
+[update.modrinth]
+mod-id = "8bOImuGU"
+version = "LqiSaocJ"

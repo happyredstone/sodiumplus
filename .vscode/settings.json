@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "nuxt.isNuxtApp": false,
+    "java.jdt.ls.java.home": "/usr/lib/jvm/java-17-openjdk-arm64",
+    "java.import.gradle.java.home": "/usr/lib/jvm/java-17-openjdk-arm64",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "disabledIntegrations": [
+    "cem",
+    "citresewn",
+    "continuity",
+    "cullleaves",
+    "entity_texture_features",
+    "iris",
+    "lambdabettergrass",
+    "lambdynlights",
+    "dynamicfps",
+    "borderlessmining",
+    "colormatic"
+  ],
+  "enablePuzzleButton": false,
+  "debugMessages": false,
+  "checkUpdates": false,
+  "showPuzzleInfo": false,
+  "resourcepackSplashScreen": true,
+  "unlimitedRotations": true,
+  "biggerModels": true,
+  "backgroundColor": 15675965,
+  "progressBarColor": 16777215,
+  "progressBarBackgroundColor": 15675965,
+  "progressFrameColor": 16777215,
+  "disableBlend": false
+}

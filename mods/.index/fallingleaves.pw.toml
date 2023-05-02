@@ -1,0 +1,14 @@
+name = "Falling Leaves"
+filename = "fallingleaves-1.15.0+1.19.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/OSEfdzSy/fallingleaves-1.15.0%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "804f6683fcbe14b411eb5830b166d07e91e132dbedc4c8df72723645e6227eca725ac530ade129aeac15d3a97656795b89c346cae0df0d547c0769e2505546f9"
+
+[update]
+[update.modrinth]
+mod-id = "WhbRG4iK"
+version = "OSEfdzSy"

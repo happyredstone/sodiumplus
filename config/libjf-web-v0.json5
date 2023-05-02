@@ -1,0 +1,7 @@
+{
+  serverIp: "http://127.0.0.1",
+  port: 35535,
+  portOverride: -1,
+  maxConnections: 20,
+  enableFileHost: false
+}

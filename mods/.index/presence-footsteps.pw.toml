@@ -1,0 +1,14 @@
+name = "Presence Footsteps"
+filename = "PresenceFootsteps-1.8.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/M7mmrOFn/PresenceFootsteps-1.8.0.jar"
+hash-format = "sha512"
+hash = "b2e75b71ea82243457dceb962effa2795be2e172ce0d3de8569fb5b2f7304f368a52e99e0a17cb3a50ac4884b53eed76998492dd016ed6277eef39850d05ef72"
+
+[update]
+[update.modrinth]
+mod-id = "rcTfTZr3"
+version = "M7mmrOFn"

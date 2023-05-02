@@ -1,0 +1,14 @@
+name = "LibJF"
+filename = "libjf-3.7.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/CWgLkq3s/libjf-3.7.1.jar"
+hash-format = "sha512"
+hash = "24e09a1be35c29f014d0a6d544e2e89682b207824d5841302866611bd233f63c60e56626c1c1b85a0a49c06fb5ba4c0e466df67ce80fd149b1189e443b06383d"
+
+[update]
+[update.modrinth]
+mod-id = "WKwQAwke"
+version = "CWgLkq3s"

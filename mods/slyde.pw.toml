@@ -1,13 +1,13 @@
 name = "Slyde"
-filename = "slyde-1.6.3.jar"
+filename = "slyde-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/diCZrsch/versions/Zx0ruWkI/slyde-1.6.3.jar"
+url = "https://cdn.modrinth.com/data/diCZrsch/versions/mAhqQeUB/slyde-1.7.0.jar"
 hash-format = "sha1"
-hash = "a74f8d6a0aca5487e3b7ec794cf4a24f1488296a"
+hash = "12e77fb03d4f45dcbcca398c29631b3b741360c6"
 
 [update]
 [update.modrinth]
 mod-id = "diCZrsch"
-version = "Zx0ruWkI"
+version = "mAhqQeUB"

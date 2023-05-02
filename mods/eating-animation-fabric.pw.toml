@@ -1,0 +1,13 @@
+name = "Eating Animation [Fabric]"
+filename = "eating-animation-1.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fe61b0089e04ec98d104102369e6a525e5fb097"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4444488
+project-id = 527023

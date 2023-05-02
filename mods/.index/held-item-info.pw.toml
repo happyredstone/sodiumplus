@@ -1,0 +1,14 @@
+name = "Held Item Info"
+filename = "held-item-info-1.4.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tEcWzCZz/versions/lphVWcag/held-item-info-1.4.2.jar"
+hash-format = "sha512"
+hash = "e2b2f7edf110ae441d87df38a936901efebe03757604bfc6de202f4a7347567dd936247e226df82ea95915f131e106bb59eac53db1e347838fef7e72253a0a8f"
+
+[update]
+[update.modrinth]
+mod-id = "tEcWzCZz"
+version = "lphVWcag"

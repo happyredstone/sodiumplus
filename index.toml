@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CONTRIBUTING.md"
-hash = "630f8ee4a96b2e560628cb8f1c4fa6c03e0572c8235ec243583642a43d306eab"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 

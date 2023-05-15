@@ -5,10 +5,6 @@ file = "CONTRIBUTING.md"
 hash = "630f8ee4a96b2e560628cb8f1c4fa6c03e0572c8235ec243583642a43d306eab"
 
 [[files]]
-file = "cf0150ba8d6c01144974709a27b23bba93c0fc9e (2).png"
-hash = "cbd7a090178168b7b15ed1c7b6a7797e06288f79e6d45f617ed27e7addde8e57"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -423,6 +419,10 @@ hash = "f15c3afa05a62ae4e4b78ef12f29e7227034ce2ae9fd8c757b796065716fa925"
 [[files]]
 file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+
+[[files]]
+file = "icon.png"
+hash = "cbd7a090178168b7b15ed1c7b6a7797e06288f79e6d45f617ed27e7addde8e57"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"

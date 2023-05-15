@@ -1,1 +1,23 @@
-{"main_menu":{"bottom_right":[{"text":"Fabulously Optimized 4.8.3","clickEvent":{"action":"open_url","value":"https://fabulously-optimized.github.io/"}}]},"pause_menu":{"bottom_right":[{"translate":"isxander-main-menu-credits.antighost","color":"dark_gray"}]}}
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "Sodium Plus 2.2.0",
+                
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://github.com/NoSadBeHappy/SodiumPlus"
+                }
+            }
+        ]
+    },
+    
+    "pause_menu": {
+        "bottom_right": [
+            {
+                "translate": "isxander-main-menu-credits.antighost",
+                "color": "dark_gray"
+            }
+        ]
+    }
+}

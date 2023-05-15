@@ -2,3 +2,6 @@ mods/litematica*.jar
 
 *.mrpack
 *.zip
+
+CHANGELIST.md
+__pycache__

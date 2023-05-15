@@ -38,7 +38,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","betterbeds:fancyconnectedbeds","minecraft:supporteatinganimation"]
+resourcePacks:["vanilla","fabric","betterbeds:fancyconnectedbeds","minecraft:supporteatinganimation","Chat Reporting Helper.zip","Default-Dark-Mode-1.19.4-v1.4.0.zip","EBE_v1.1_1.19.4.zip","Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

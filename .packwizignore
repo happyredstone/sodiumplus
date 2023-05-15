@@ -1,0 +1,12 @@
+*.mrpack
+*.zip
+.gitignore
+LICENSE
+README.md
+.git
+.vscode
+CHANGELOG.md
+CHANGELIST.md
+pyrinth
+changelog.py
+__pycache__

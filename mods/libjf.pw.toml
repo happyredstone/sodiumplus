@@ -1,13 +1,13 @@
 name = "LibJF"
-filename = "libjf-3.7.1.jar"
+filename = "libjf-3.6.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e1a2342390b8bf6c67329797cea49d6328a6ca7a"
+hash = "2092caf9343feb45c57e0258cdaf37b939120d76"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4451657
+file-id = 4443629
 project-id = 482600

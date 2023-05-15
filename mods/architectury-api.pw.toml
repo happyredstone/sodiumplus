@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-8.1.80-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Xb48U4dI/architectury-8.1.80-fabric.jar"
+hash-format = "sha1"
+hash = "e19f0bbaf8f27ef7feba77e091103c3bb25ee43f"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "Xb48U4dI"

@@ -11,3 +11,5 @@ pyrinth
 changelog.py
 __pycache__
 CONTRIBUTING.md
+MODLIST.md
+modlist.py

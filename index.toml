@@ -746,11 +746,6 @@ hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
 
 [[files]]
-file = "mods/moderate-loading-screen.pw.toml"
-hash = "b9debc55b6efa2c9bf7b7d62ef1cc68c4e2be32bde9f9085f4536ce958a873aa"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
@@ -793,11 +788,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "f403c771795282b22ded95a62cca193f0561ff3c4d7ca6803a5e4f53618c38cd"
 metafile = true
 
 [[files]]
@@ -852,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
@@ -868,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "9786ed7a4a961fbf6035899628390b289cef33365588d3550ab147cba7fc8d39"
 metafile = true
 
 [[files]]

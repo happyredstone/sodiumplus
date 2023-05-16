@@ -4,7 +4,7 @@ Re-added some of the mods that were previously removed due to incompatibilities.
 
 __Note:__ LazyDFU will not be added back, as it is redundant as of 1.19.4.
 
-- Added Architecruty API
+- Added Architectury API
 - Added Bobby
 - Added DashLoader
 - Added Durability Tooltip

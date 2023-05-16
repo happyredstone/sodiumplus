@@ -10,9 +10,7 @@ __Note:__ LazyDFU will not be added back, as it is redundant as of 1.19.4.
 - Added Durability Tooltip
 - Added Entity View Distance
 - Added Lazy Language Loader
-- Added Mod-erate Loading Screen
 - Added Mouse Wheelie
-- Added owo-lib
 - Added Roughly Enough Items
 - Added Roughly Enough Professions
 - Added Roughly Searchable
@@ -31,7 +29,7 @@ __Note:__ LazyDFU will not be added back, as it is redundant as of 1.19.4.
 - Updated Indium
 - Updated Iris
 - Updated Jade
-- Updated LibJF
+- Removed LibJF
 - Updated MaliLib
 - Updated Midnight Controls
 - Updated Simple Voice Chat
@@ -41,6 +39,7 @@ __Note:__ LazyDFU will not be added back, as it is redundant as of 1.19.4.
 - Updated Xaero's World Map
 - Updated YetAnotherConfigLib
 - Changed Main Menu Credits config
+- Removed Slyde
 
 # v2.1.0
 

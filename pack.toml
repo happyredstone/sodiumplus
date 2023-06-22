@@ -1,13 +1,13 @@
 name = "Sodium Plus"
 author = "NoSadBeHappy"
-version = "2.2.0"
+version = "2.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "513e42c47abc644e49551cfe6ab168329ff2dd460197b2ab8b80864d002a7bbb"
+hash = "661fac1efb3c17f998673e558ca233c54cd96bac1379c0e2800b2d1c5a298ca6"
 
 [versions]
-fabric = "0.14.19"
-minecraft = "1.19.4"
+fabric = "0.14.21"
+minecraft = "1.20"

@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Sodium Plus 2.2.0",
+                "text": "Sodium Plus 2.2.1",
                 
                 "clickEvent": {
                     "action": "open_url",

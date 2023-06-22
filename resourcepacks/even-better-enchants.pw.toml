@@ -1,13 +1,13 @@
 name = "Even Better Enchants"
-filename = "EBE_v1.1_1.19.4.zip"
+filename = "EBE_1.20.x_v1.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6udpuGCH/versions/WXFKRkyA/EBE_v1.1_1.19.4.zip"
+url = "https://cdn.modrinth.com/data/6udpuGCH/versions/Hk6zJ311/EBE_1.20.x_v1.1.zip"
 hash-format = "sha1"
-hash = "4dc96d7d4d4470d3baf4537667a81eed9aea6955"
+hash = "8a27c246bc45d80c3abc4002e06c2ff3b400129b"
 
 [update]
 [update.modrinth]
 mod-id = "6udpuGCH"
-version = "WXFKRkyA"
+version = "Hk6zJ311"

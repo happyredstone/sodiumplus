@@ -16,7 +16,7 @@ jobs:
         path: go/src/github.com/nosadbehappy/sodiumplus
 
     - name: Build
-      run: make
+      run: make -f go/src/github.com/nosadbehappy/sodiumplus/Makefile
 
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v3

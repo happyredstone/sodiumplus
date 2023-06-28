@@ -2,6 +2,10 @@ mods/litematica*.jar
 
 *.mrpack
 *.zip
+*.tar.gz
 
 CHANGELIST.md
 __pycache__
+vendor
+bin/*
+!bin/lipo*

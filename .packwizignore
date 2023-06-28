@@ -1,5 +1,6 @@
 *.mrpack
 *.zip
+*.tar.gz
 .gitignore
 LICENSE
 README.md
@@ -13,3 +14,9 @@ __pycache__
 CONTRIBUTING.md
 MODLIST.md
 modlist.py
+bin
+vendor
+builder
+go.work
+go.work.sum
+bld

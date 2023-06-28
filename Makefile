@@ -19,6 +19,7 @@ bootstrap-darwin:
 	$(GOENV) GOOS=darwin GOARCH=amd64 go build -o bin/builder+mach_o.x86_64 $(GOFLAGS) ./builder
 	$(GOENV) GOOS=darwin GOARCH=arm64 go build -o bin/builder+mach_o.arm64 $(GOFLAGS) ./builder
 
+	chmod +x bin/lipo.$(shell uname -m)
 	bin/lipo.$(shell uname -m) -create -output bin/builder.mach_o bin/builder+mach_o.x86_64 bin/builder+mach_o.arm64
 
 clean:

@@ -1,3 +1,22 @@
+# v2.2.2-beta1
+
+- Added Indium (Closes https://github.com/NoSadBeHappy/sodiumplus/issues/8) 
+- Added Stack to Nearby Chests
+- Updated all mods
+
+# v2.2.1-beta1
+
+BETA VERSION FOR 1.20!
+
+- Remove Smooth Boot (not needed)
+- Remove Where is It / Chest Tracker
+- Remove Bobby
+- Remove LambDynamicLights
+- Remove Midnight Controls
+- Remove Indium
+
+The full release for 1.20 or 1.20.1 will include all the mods removed in this release unless otherwise noted.
+
 # v2.2.0
 
 Re-added some of the mods that were previously removed due to incompatibilities.

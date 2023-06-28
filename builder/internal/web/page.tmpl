@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Index of {{ .Path }}</title>
+
+        <style>
+            body {
+                font-family: Helvetica, sans-serif;
+                background-color: #1f2120;
+                color: #ffffff;
+            }
+
+            a {
+                color: #ffffff;
+            }
+
+            .file {
+                color: aqua;
+            }
+
+            .dir {
+                color: lime;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Index of {{ .Path }}</h1>
+
+        {{ with .Files }}
+        <ul>
+            <li>
+                <a href="../" class="dir">../</a>
+            </li>
+
+            {{ range . }}
+            <li>
+                <a href="{{ .Name }}" class="{{ .Type }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </body>
+</html>

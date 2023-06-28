@@ -6,9 +6,13 @@ Sodium Plus is open source and under the [MIT License](./LICENSE), and contribut
 
 We use packwiz to manage mods and assets, so please use it for that too! Their docs are here: https://packwiz.infra.link
 
+## Packaging
+
+To package, use our custom builder tool, which can be used by running `./bld` on Linux, or if you are on Windows or MacOS, run `make` with Go installed, and then find the correct binary for your system in the `bin/` folder.
+
 ## Mod List
 
-To automatically generate a mod list from all the `.pw.toml` files in the `mods/` and `resourcepacks/` folders, just run the python script `modlist.py` and it will generate a `MODLIST.md`.
+To automatically generate a mod list from all the `.pw.toml` files in the `mods/` and `resourcepacks/` folders, use our builder tool with the arguments `list --markdown --output MODLIST.md`, and it will generate a mod list for you in the `MODLIST.md` file.
 
 ## Changelogs
 

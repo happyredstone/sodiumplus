@@ -18,8 +18,8 @@ jobs:
     - name: Build
       run: make -C go/src/github.com/nosadbehappy/sodiumplus
 
-    - name: Upload a Build Artifact
+    - name: Upload Artifacts
       uses: actions/upload-artifact@v3
       with:
         name: Binaries
-        path: bin
+        path: bin/*

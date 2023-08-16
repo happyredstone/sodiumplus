@@ -1,0 +1,13 @@
+name = "ChestTracker"
+filename = "chesttracker-1.20.1-1.1.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ni4SrKmq/versions/XkahVDvE/chesttracker-1.20.1-1.1.22.jar"
+hash-format = "sha1"
+hash = "df5d9d64b0ef1108610fa5e4fa2ce5b121b04dd1"
+
+[update]
+[update.modrinth]
+mod-id = "ni4SrKmq"
+version = "XkahVDvE"

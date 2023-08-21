@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/go.yml"
-hash = "689b5b95b000e787fe20f95165b4ae13f7fa46b3e7aadb3f976cc841b8e45013"
+hash = "6493ac31ea34243fed3c9fec70b53cc6ea76d9c693417cf6bf3c90afda23f055"
 
 [[files]]
 file = "Makefile"
@@ -278,11 +278,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-<<<<<<< HEAD
-hash = "0f6cb4a140e135580e68950b206321b4c4aaeb4a2cf8f5c72f40c968a2111f6a"
-=======
 hash = "da4bc17e6e06f33ad0fca3ee3ac753a82dd7d8948ac9ccaa270c607de240fd28"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
@@ -438,11 +434,7 @@ hash = "cbd7a090178168b7b15ed1c7b6a7797e06288f79e6d45f617ed27e7addde8e57"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-<<<<<<< HEAD
-hash = "48625bd06bc56e5a2310c9df5d97efab4bdae3b699f71dca603a3547c7a92fb2"
-=======
 hash = "a7512a9e7376ee77349daece18a1a78691c594c5ad15ec5b4af83503b8445fec"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -462,11 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-<<<<<<< HEAD
-hash = "ecc2ae256b9add7c8bc9cec50e2edec57e4d7e9ddd35690c67eaf9848d846696"
-=======
 hash = "cf8dbc5c00baa7ba1202f5164fdcd73bfe03abd17083dd74146353879cff88fd"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -476,11 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-<<<<<<< HEAD
-hash = "6afb56503d3b0c78a9524d1dcf71cca8d4b9689aa35953575ac87f6045ad4a53"
-=======
 hash = "2d88d778d55cc28c795e4a6efcd55f759af34dfe21f5b6ee120382b40eb8269d"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -499,36 +483,13 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/calcmod.pw.toml"
-hash = "8ca1d8191ca218797d5c9c37bb3160a7f5f14385153c93d8c9e1e27700a9a449"
-metafile = true
-
-[[files]]
-=======
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/cat-eyes.pw.toml"
-hash = "8af255894595f0b7fd8d7ccb48ef5a83560e86c59321cfb673d2408614fa2ecf"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "d03ea91a6226c1bb1fc01a7729b9f81c2936859cdcb437e2c9098d9e9e3e2a5d"
-metafile = true
-
-[[files]]
-file = "mods/chest-tracker.pw.toml"
-hash = "d12d426b31ba646311e03d3f9659156978716fc3813e270c952dc722c5be46c6"
-=======
 file = "mods/chat-heads.pw.toml"
 hash = "96783739fd2e7be1c5e72d702af11d7429abb596afa3ae2dc6914e5312dcd459"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -538,56 +499,32 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-<<<<<<< HEAD
-hash = "6ce95b0cd42ac575a26fac560b0438c15e85bf8911884495baa175ccaf8bf9b5"
-=======
 hash = "2f810fc8389f6dbbd9d50885e8b93f5aa0ff962489baf522df06636073d830fa"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-<<<<<<< HEAD
-hash = "c1cc95ce13d8227bbce4e4aef484fa5fa51eb0c5619adf3dcaa8a5c11ae5f274"
-=======
-hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
+hash = "bc7241082aebf82a65ff76a5325178d8c81953d49edaa3a8c89beb50c1094c53"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-<<<<<<< HEAD
-hash = "b521bc0fc599132c7516fc259afdfa9019e7c7dd6464a2ce5d63bdf06c92aa30"
-=======
 hash = "50664b48d81f18c7ff0a7cc73b0fe3f0a3f3dddea88cabcb631d70995d60d7de"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-<<<<<<< HEAD
-hash = "4f8cea165e19ba75516abff440e631b3a9872a03b50111583286a172b8fa74a6"
-=======
 hash = "49c48e16377c963f68020b4a245e5dbeb628adf4d4e485334613b764c5c0d1da"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-<<<<<<< HEAD
-hash = "60779d83fbb16dc84c7f415e2193d794e14bccd4a8f50c96eb91afb3595e5750"
-=======
 hash = "059aa3cd982a42ef1e83eaa0e3c0581eb692cd1392800e908e93fb1da9c6cb70"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-<<<<<<< HEAD
-hash = "5902103607f6b53cefedb966fc1b24fe57365f7b524cb71c8c44c33fe2957d2e"
-=======
 hash = "a808a542864d952b3755ff5bf2904005540a3900ea77ca6b4419d15600f132a7"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -607,11 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-<<<<<<< HEAD
-hash = "57f761198f2e08af581067d8a8377629f5b850c29c0ad9bfd39e81ec3a9126c6"
-=======
 hash = "7e5521fd3076d0f4540e19a982b41c85604175b501533087a0525455f9a7cbab"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -621,16 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-<<<<<<< HEAD
-hash = "1f01c9ae00392561ba9b4850203e2000aff9fea7c7e55e107ee85782520750e0"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "14c3c750ed0dd1a555ff48f107bfd4059223a88eadb4ba39772e21e2c44feab8"
-=======
 hash = "ecb38704af66a9b5ef2362937c44110fbebe2cf131524f92b7206241ab56852f"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -645,52 +569,26 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-<<<<<<< HEAD
-hash = "c8094c0b30c1e5c2fd9e5c29812685c46c6eacd2a6a639cc6df955aa3abf5944"
-=======
-hash = "79f1b115272dda60974bf0f16379308a673184fefc973a598a1a2f84e261b19d"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
+hash = "bc5f799a9b1d719336ec995f44fd4cde272fa01fce4e92ba24ecccae02c5311f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-<<<<<<< HEAD
-hash = "b34a78ddb894f4aaeb17d31d086274994bc84f9efa5d53e5d8b292ad2f5aaf8b"
-=======
 hash = "1c35f38c22d8fb46052bc3f0a7d1d6afe0dd882b0053b52169b9c1bc6ccdae16"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-<<<<<<< HEAD
-hash = "cd19f21280876077baec07e3f93be3745bb3d424db70d4fc8973a8040f18a5f2"
-=======
-hash = "894d979ff26d8c7ee75d47a318f41873974a25f232c323980c0a82fa5999e93a"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
-metafile = true
+hash = "6e3aa247ee90cf2b31a65adadbf608b54ccb2d3ed869961537688e774361521f"
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-<<<<<<< HEAD
-hash = "3bd176952b353b50aafb2c7ae99bdd489418b38121c105f356f60da5302174ff"
-=======
 hash = "c9f89c942de9c4e778084b56ed4767bf2ec5d30894da7c3edea584b702cf35a3"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-<<<<<<< HEAD
-hash = "b9fe5a87618cef2218205cbd75da04922539a8d7a29a89fc0cc4d8b368a2fb86"
-metafile = true
-
-[[files]]
-file = "mods/falling-leaves-fabric.pw.toml"
-hash = "6d90fb9f7d5b09f35fde8d4c854cbe698eeac72f60564e47a0265c55e01dae29"
-=======
 hash = "81d902689258f0c58b136b238500198a55d7ca2809f582f791a3f51f0a85f258"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -710,16 +608,12 @@ metafile = true
 
 [[files]]
 file = "mods/fpsdisplay.pw.toml"
-<<<<<<< HEAD
-hash = "665943e16c3f7036f21d59224d9cbe0c6316b8c6a2e8f9e61187fdfb20740f9a"
-=======
 hash = "f8379b222d85eb2db0adf6338157dda7cac096132edc1bb0680cb2910222cec7"
 metafile = true
 
 [[files]]
 file = "mods/full-brightness-toggle.pw.toml"
 hash = "150a4769d2b3c98f10dc5a1f591e9453b0d95b27709142846e3ffd14651ebaf5"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -734,43 +628,27 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-<<<<<<< HEAD
-hash = "676051be50873c43b760040de05bd642db222c10629d82fb98f33c0ee7b69f34"
-=======
 hash = "1a132b7e68a0b860a68d36f2545f2699a46cd018d7f46952f151d61d7a427de8"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-<<<<<<< HEAD
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
-=======
 hash = "9f1b3f05d0a6037126315e9b10bc9f1fb41b13a41ecd8ac9557460192a4deffb"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "77616a9061900a8194e034d47bf2e4cea22ce3caf11917b5f6fc17e4ac34be2d"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-<<<<<<< HEAD
-hash = "41352be633005295968990d1c9b66f054c6cead63b3df9f18169435e9f906e7b"
-=======
 hash = "acd2a48c6c37b479693ac38c0353e183afacc14c39632857c0fea68b22b95a0d"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-<<<<<<< HEAD
-hash = "665f08e8f8100972612b5c0dc57dbc69a1560098694a7c009900be40762a02ad"
-=======
 hash = "c99fef9dc852576a7d9f2560e4c3eaf979701eba651cd54653f4cee709615253"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -790,25 +668,12 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-<<<<<<< HEAD
-hash = "5620d689a44e6da3b3a44fd483de7cd3f14c71883b23089f0d915120dc80badb"
-=======
-hash = "fd1b685219022148a51b5834f9c424a148025ef673ce50c935c2388e08d0040a"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
+hash = "1d13e0158816c441d1f850f5c393404a5dea976ea98896a0ef90a8c93aee57c2"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-<<<<<<< HEAD
-hash = "7938ccef45fd452cf5f3c9f11eece69201d670438afd5ef3fa04eefe7a22f375"
-=======
-hash = "4822d93ebb631fcebddf18144df9876d7146304e0785c21c9175eac4a5e8c752"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
 
 [[files]]
@@ -818,12 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-<<<<<<< HEAD
-hash = "0c1c279bed7cc7a2120967b80b775cf748b85a642d40d657a7d15c9342e14246"
-=======
-hash = "82eac506bc96aee2e74cafc93952a024149b5ee736e97d855e445195b10a6127"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
-metafile = true
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
@@ -831,14 +691,6 @@ hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/midnightcontrols.pw.toml"
-hash = "58cdecbc08a018401a8025872e39258db6fac3f2346def67c1d82097dd1dcd09"
-metafile = true
-
-[[files]]
-=======
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
@@ -855,11 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-<<<<<<< HEAD
-hash = "539a3ba0aac839e5cab75be2bdc5ce494a7844c14fc38955ebeda4939b460673"
-=======
 hash = "9278ac6bf6a69955ee8c0da50531a0eaf86b2b4f6cf86cf7335b612fb0487bc6"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -874,11 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-<<<<<<< HEAD
-hash = "5acfe67025db2a22ff57558404d6610d7c82b4797609cf8d36d906b92f4a4749"
-=======
 hash = "389a479fea4aecbad8f10ef1d686227932ccb2f1580d52a2af8c037f48098745"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -888,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-fade.pw.toml"
-hash = "85af28fee016a70644af82f53993680908a64f48667a45ce05319666c2136555"
+hash = "162eb12c372b3b095ccbc2717d7ae6737a07d88bbbb665b82ddcbe3dc192c777"
 metafile = true
 
 [[files]]
@@ -898,11 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-<<<<<<< HEAD
-hash = "ce36f3497ba0d0e2fd282d5881dbc84bac0b86b43c824dbaee306bd832801c88"
-=======
 hash = "d5284c4e2fb341c16ac2160bbdecab268bc20c079eb6e189bf9aba84005e68f9"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -912,47 +752,26 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-<<<<<<< HEAD
-hash = "c01693ef919a1ced5aed3b542f0affe24842ed16564ee0202ba032a3073f59f6"
-=======
 hash = "77bad0ec419c5ec8b16f94c2d11138538874e9d80a2b1ad087af0d6838bca12a"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-<<<<<<< HEAD
-hash = "dc646cd75845b9d4d0209567398185c2b536e4071057be9bf128403b47a25e5d"
-=======
 hash = "27f212c50d7cb53041d359ab805087cbec3348be2e851c2ab69f7ec46b1430d5"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-<<<<<<< HEAD
-hash = "d87908dce18b1cb9fd7e61509a1c783770783bb94bf172f5c5bbd5033d5b4c68"
-=======
 hash = "f08929013cca8ffb12d2fde01b4a6559663ec9b19687400f5ae450b903c656c9"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-<<<<<<< HEAD
-hash = "b7efb588f50042a53468e4dcf0464de86ee3d8a7d13fa4e8010b6e784d1d9df2"
-=======
-hash = "8d55d8ceea709b9ed2ba836dabe70a078f00eab7d7ab935ae7b0cab4becaac45"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
-metafile = true
+hash = "14cc4a22ff95357f268e55e99728742c6667e4ad1a3272bb708fb2702ffc5f82"
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-<<<<<<< HEAD
-hash = "2b8c3b228371e3f470185924d778943a7dbe53cffc8ad31f3f727a21a495f377"
-=======
 hash = "a8c464c6caf94bc188b0092568321bf01515fb95cc57b4b6ec18ee599e4bf492"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -961,25 +780,13 @@ hash = "b18b4b3aefee851509decc59ee28384baa3d97dd2ab924b78c79a6aeeeaa78fd"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/rrls.pw.toml"
-hash = "5807f6f9ee591fd628558b65e7b457ba3299c26a0a86ac77b79e1cecdbe51a57"
-metafile = true
-
-[[files]]
-=======
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "6afddbb9999fbdeb30199a43754c06aef8bab71bebed392f8aa74ace1afbdbc0"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-<<<<<<< HEAD
-hash = "9df4a8159c4bfb2a4bd61f332e400ddf697ca959b770bcf6c1ad401b7489f0a8"
-=======
 hash = "1c0df270d7233755376f6773732dd01503868d1177f500cb9d40ff4ec36da8c7"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -989,38 +796,22 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-<<<<<<< HEAD
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
-=======
 hash = "6a09669b93ce8477f9f17937d50a1944b4e5835c22f5b1ff2b334b28e68ac198"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-<<<<<<< HEAD
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
-=======
 hash = "a84a9659a0a98151a24a0735b6e8dc2642f61cdabdf99138cdba1e1fc08d2e24"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-<<<<<<< HEAD
-hash = "216c5609ac606991611cbe05d1d9a6fce41e9bb834583884926be530bf348007"
-=======
 hash = "4ef72e972d5baa737b910a554ced5f0ca026016f8ab9cc2a07e118945848f1dc"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-<<<<<<< HEAD
-hash = "8365546607d817e34d592918b15310a551224b463012c640644425626241a2ea"
-=======
 hash = "70920cc0323e9642c782a85b4d9a1b1ff34a5dc80d691492994d71cb830e44f8"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -1030,11 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-<<<<<<< HEAD
-hash = "c8a3908e33be03401812cb2ddaf92b6bb40626f918e6f92b86bc2c9fda9757ac"
-=======
 hash = "078cf70e2dc85654f9ab916e6b006374ba56ed495231187ebb34314f27eb7305"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -1049,42 +836,27 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-<<<<<<< HEAD
-hash = "29caf9614816c2974c47e9496cb5f46b49d5115a57c72214503be0ab309aa8b3"
-=======
-hash = "0f1efdb0b4d2d86363281b90838eb40edf326f46b7c93640b7fe463cc10965b3"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
+hash = "71e788d2d6708ed4c72efc3a871f6def3dccd0d9aac988d1cf677420841d3a5c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-<<<<<<< HEAD
-hash = "d85d71991c40f1afa0e07f3015cda2211cf4cf881403cb43cd855cb52a302d1e"
-=======
-hash = "8a3cead322790ad946980f3773835008f6fc9a876a30b6148513c8e94396d997"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
+hash = "570d2504b59884f6c343bb1f1c6c73c6a4b2a324948da6d6e265a05797a6d35c"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-<<<<<<< HEAD
-hash = "5de8d864c3c0bfcb5f6d4dc88fd3f858ea98d5017c22ad6e16b9316c6f4e2be5"
-=======
 hash = "b2713f2b8737221e8fa4f2d51f37699905212a5cb645c1004a0d0bd21da3c87c"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-<<<<<<< HEAD
-=======
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "5db04e6d2759b1b4db3d75fd35eea2ff4c567f3d44d5bbad224dcaff3a4a2318"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
@@ -1093,20 +865,12 @@ hash = "07213ab063b2410abcb6562d827ead302936251c7e8545250390380ac6587429"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-<<<<<<< HEAD
-hash = "d75207426a1195326c4095530674abbec74a866e04882edd0f64db17785bc1ef"
-=======
 hash = "e4404ed6049dc5c2c463c1807f13ec29d814b85e174e7cc52b484194c5021496"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-<<<<<<< HEAD
-hash = "c8100cbba41510d4e709ebe47b57290ab2a3181d5d86dd8a244a59b0958625dd"
-=======
 hash = "b2b697a1d4927f7bcb30b6e53821e989de780534fb17206a4742e2a1b1f66f4e"
->>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 metafile = true
 
 [[files]]

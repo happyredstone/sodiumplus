@@ -1,13 +1,13 @@
 name = "LibJF"
-filename = "libjf-3.12.1.jar"
+filename = "libjf-3.12.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/ARDN1LWN/libjf-3.12.5.jar"
 hash-format = "sha1"
-hash = "42023bf8be230d1263df22838602168c6a5ca3ea"
-mode = "metadata:curseforge"
+hash = "0271ccc0e9621051cbcfc0ab5043ca7c2261634c"
 
 [update]
-[update.curseforge]
-file-id = 4704375
-project-id = 482600
+[update.modrinth]
+mod-id = "WKwQAwke"
+version = "ARDN1LWN"

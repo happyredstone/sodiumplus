@@ -1,4 +1,5 @@
 name = "Indium"
+<<<<<<< HEAD
 filename = "indium-1.0.21+mc1.20.1.jar"
 side = "client"
 
@@ -6,8 +7,21 @@ side = "client"
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTh7W27h/indium-1.0.21%2Bmc1.20.1.jar"
 hash-format = "sha1"
 hash = "f97c6485da813634541a8c792b2f04d44e17d141"
+=======
+filename = "indium-1.0.18+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/WTH3T2cR/indium-1.0.18%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174"
+>>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)
 
 [update]
 [update.modrinth]
 mod-id = "Orvt0mRa"
+<<<<<<< HEAD
 version = "yTh7W27h"
+=======
+version = "WTH3T2cR"
+>>>>>>> parent of 94793cc (Merge branch 'main' of https://github.com/NoSadBeHappy/sodiumplus)

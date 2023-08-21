@@ -1,5 +1,5 @@
 version:3218
-autoJump:true
+autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
@@ -144,7 +144,7 @@ key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.whereisit.finditem:key.keyboard.y

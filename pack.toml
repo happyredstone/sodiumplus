@@ -1,16 +1,16 @@
 name = "Sodium Plus"
 author = "NoSadBeHappy"
-version = "2.2.9"
+version = "2.2.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "db5f9aa33cc224a675dde1daf08d92cdaf34e3c2990f8d8113f3db35dd41d328"
+hash = "8769c86ac56700f45919d1da173830b04e86d80e92aa210fcea435f9a750309f"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.19.1"
+quilt = "0.19.2"
 
 [options]
-acceptable-game-versions = ["1.20.1", "1.20", "1.19", "1.16.5"]
+acceptable-game-versions = ["1.20.1", "1.20"]

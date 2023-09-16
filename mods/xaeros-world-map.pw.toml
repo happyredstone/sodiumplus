@@ -1,4 +1,5 @@
 name = "Xaero's World Map"
+<<<<<<< Updated upstream
 filename = "XaerosWorldMap_1.32.0_Fabric_1.20.jar"
 side = "both"
 
@@ -6,8 +7,21 @@ side = "both"
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/RBZYvZJ4/XaerosWorldMap_1.32.0_Fabric_1.20.jar"
 hash-format = "sha1"
 hash = "9e25e722198fbb14eaf4261bdbbb2d44c1776509"
+=======
+filename = "XaerosWorldMap_1.34.1_Fabric_1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/L8OA3xGI/XaerosWorldMap_1.34.1_Fabric_1.20.jar"
+hash-format = "sha1"
+hash = "8a455f2e872bfca4726f84e71286d5d8f2f9cef9"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "NcUtCpym"
+<<<<<<< Updated upstream
 version = "RBZYvZJ4"
+=======
+version = "L8OA3xGI"
+>>>>>>> Stashed changes

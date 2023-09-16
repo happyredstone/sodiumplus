@@ -1,4 +1,5 @@
 name = "YetAnotherConfigLib"
+<<<<<<< Updated upstream
 filename = "yet-another-config-lib-fabric-3.1.0+1.20.jar"
 side = "both"
 
@@ -6,8 +7,21 @@ side = "both"
 url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/CgwTUAR2/yet-another-config-lib-fabric-3.1.0%2B1.20.jar"
 hash-format = "sha1"
 hash = "0c6d76e383439662c2f0871e170e6e465d2f84ef"
+=======
+filename = "yet-another-config-lib-fabric-3.1.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/VPm1SrE4/yet-another-config-lib-fabric-3.1.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "4c4f5b2db75d92866f83a4c899fde1e619fd759a"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
+<<<<<<< Updated upstream
 version = "CgwTUAR2"
+=======
+version = "VPm1SrE4"
+>>>>>>> Stashed changes

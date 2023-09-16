@@ -1,4 +1,5 @@
 name = "Xaero's Minimap"
+<<<<<<< Updated upstream
 filename = "Xaeros_Minimap_23.6.1_Fabric_1.20.jar"
 side = "both"
 
@@ -6,8 +7,21 @@ side = "both"
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/1DxAMjCv/Xaeros_Minimap_23.6.1_Fabric_1.20.jar"
 hash-format = "sha1"
 hash = "54eba2b9dc604c662137c490bf7d160aab08804c"
+=======
+filename = "Xaeros_Minimap_23.8.0_Fabric_1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/VLWE8oE9/Xaeros_Minimap_23.8.0_Fabric_1.20.jar"
+hash-format = "sha1"
+hash = "291ac5f3445f7d3ba888a22cf7a699a77d849851"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "1bokaNcj"
+<<<<<<< Updated upstream
 version = "1DxAMjCv"
+=======
+version = "VLWE8oE9"
+>>>>>>> Stashed changes

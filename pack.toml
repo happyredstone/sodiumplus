@@ -6,27 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-hash = "8769c86ac56700f45919d1da173830b04e86d80e92aa210fcea435f9a750309f"
-
-[versions]
-minecraft = "1.20.1"
-quilt = "0.19.2"
-=======
-hash = "85a7bd6860f4fe40e587577b10508c73c8f2339981005a61eaee0fc021ef1154"
+hash = "408fb1a22073549c92ff74fe86b59df8dadd2aa066841a7942485b1795739afa"
 
 [versions]
 minecraft = "1.20.1"
 quilt = "0.20.2"
->>>>>>> Stashed changes
-=======
-hash = "2a78ffd826026c69dc142ce8de40654c4bb91acce1cb17ac424eaceb4a281078"
-
-[versions]
-minecraft = "1.20.1"
-quilt = "0.20.2"
->>>>>>> Stashed changes
 
 [options]
 acceptable-game-versions = ["1.20.1", "1.20"]

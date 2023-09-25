@@ -5,7 +5,11 @@ side = "both"
 [download]
 hash-format = "sha1"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "523548d7c461c979b85586730de3fedfa2bda169"
+=======
+hash = "4b3c263defd89be217bddec65543d0be15cd10f9"
+>>>>>>> Stashed changes
 =======
 hash = "4b3c263defd89be217bddec65543d0be15cd10f9"
 >>>>>>> Stashed changes
@@ -14,7 +18,11 @@ mode = "metadata:curseforge"
 [update]
 [update.curseforge]
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 file-id = 4675818
+=======
+file-id = 4753776
+>>>>>>> Stashed changes
 =======
 file-id = 4753776
 >>>>>>> Stashed changes

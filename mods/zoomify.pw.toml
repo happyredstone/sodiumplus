@@ -1,5 +1,6 @@
 name = "Zoomify"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 filename = "Zoomify-2.11.0.jar"
 side = "client"
 
@@ -16,12 +17,25 @@ url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/gZr7EykF/Zoomify-2.11.2.j
 hash-format = "sha1"
 hash = "75d8785b79cd2333f4d1d326da55ba5fc6372f8d"
 >>>>>>> Stashed changes
+=======
+filename = "Zoomify-2.11.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/gZr7EykF/Zoomify-2.11.2.jar"
+hash-format = "sha1"
+hash = "75d8785b79cd2333f4d1d326da55ba5fc6372f8d"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "w7ThoJFB"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 version = "tv8GIQDa"
+=======
+version = "gZr7EykF"
+>>>>>>> Stashed changes
 =======
 version = "gZr7EykF"
 >>>>>>> Stashed changes

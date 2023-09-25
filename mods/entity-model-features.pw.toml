@@ -1,5 +1,6 @@
 name = "Entity Model Features [CEM]"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 filename = "entity_model_features_fabric_1.20-0.2.13.jar"
 side = "client"
 
@@ -16,12 +17,25 @@ url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/toEX8PUQ/entity_model_fea
 hash-format = "sha1"
 hash = "8f92545d6b91f4dec7db418b1ddf125a69ad2222"
 >>>>>>> Stashed changes
+=======
+filename = "entity_model_features_fabric_1.20-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/zO7oFMiv/entity_model_features_fabric_1.20-1.0.2.jar"
+hash-format = "sha1"
+hash = "87147ac0b539ccb0f409a1eaa4914846b513db67"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 version = "b1pJegrh"
 =======
 version = "toEX8PUQ"
+>>>>>>> Stashed changes
+=======
+version = "zO7oFMiv"
 >>>>>>> Stashed changes

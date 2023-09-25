@@ -1,5 +1,6 @@
 name = "SuperMartijn642's Config Lib"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 filename = "supermartijn642configlib-1.1.7-fabric-mc1.20.jar"
 side = "both"
 
@@ -16,12 +17,25 @@ url = "https://cdn.modrinth.com/data/LN9BxssP/versions/ppb4lV9X/supermartijn642c
 hash-format = "sha1"
 hash = "95d1779f354b3696a3cbad96215db1277339fc41"
 >>>>>>> Stashed changes
+=======
+filename = "supermartijn642configlib-1.1.8-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/ppb4lV9X/supermartijn642configlib-1.1.8-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "95d1779f354b3696a3cbad96215db1277339fc41"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "LN9BxssP"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 version = "baEzAEWx"
+=======
+version = "ppb4lV9X"
+>>>>>>> Stashed changes
 =======
 version = "ppb4lV9X"
 >>>>>>> Stashed changes

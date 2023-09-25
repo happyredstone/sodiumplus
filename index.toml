@@ -499,6 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
+<<<<<<< Updated upstream
 hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
 <<<<<<< Updated upstream
 metafile = true
@@ -507,6 +508,9 @@ metafile = true
 file = "mods/chest-tracker.pw.toml"
 hash = "ceb16d334779a1d48b7d5efb3468fc4cc8621e3f5a8813adf304785690d60767"
 =======
+>>>>>>> Stashed changes
+=======
+hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
 >>>>>>> Stashed changes
 metafile = true
 
@@ -522,7 +526,11 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
+<<<<<<< Updated upstream
 hash = "ae7289ce36007969323855d0f6c02afdce5890fb1263057eec68cdaafe455908"
+=======
+hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -533,7 +541,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "0f0b25b9342b4696c7c153f32e8dc7cea8fdf68a06b5698fc497a56e4303eb2d"
+=======
+hash = "86d5d686ebe5078b2058260f3fcf7c987a07ff00144514af0789c8e4c71c6d7d"
+>>>>>>> Stashed changes
 =======
 hash = "86d5d686ebe5078b2058260f3fcf7c987a07ff00144514af0789c8e4c71c6d7d"
 >>>>>>> Stashed changes
@@ -556,16 +568,21 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "68b89af2373d74955b72209195d3874d8ab24f25683010d7e61918ba84a5f439"
+hash = "c3f740612bea93485d917787e8a7fa9def95b110e84b89d251227b06a97ff9b4"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
+<<<<<<< Updated upstream
 hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
+=======
+hash = "b2501ec08296916d344df698d0542054e49eae3283d97df3c375c9ef3df93808"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
 metafile = true
@@ -573,6 +590,9 @@ metafile = true
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
 hash = "37c35d01bc3279e9587229635c6f68d27c82c24f12b00e8e420c7d898888c085"
+=======
+hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
+>>>>>>> Stashed changes
 =======
 hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
 >>>>>>> Stashed changes
@@ -586,6 +606,7 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "307cf5494a399c27691cfa361646574e103c80bc2869373fb8d75cd0e229ad83"
 metafile = true
 
@@ -595,11 +616,18 @@ hash = "d9d217ed11ebb61e74ec51ff7d9b518c78aed700ebb520e64096ffd81ebcf891"
 =======
 hash = "e6a716a5df1371a83a60355346d2ce739b5ddbcf643e9b548222c7dabba800cd"
 >>>>>>> Stashed changes
+=======
+hash = "ceabdf57ccfdf9aefc04e6f3bc10e06d6a3320037a0ff60f5990501c9a5d6302"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/entity-view-distance.pw.toml"
+<<<<<<< Updated upstream
 hash = "ac367fc212cdba6b1751243bd661f5353b1c9e1c2367823058bedaaf2b4e3d82"
+=======
+hash = "a099b07d4cbf8640e6c6f881a557864924c0fc8c12560d84f44c55cc3c5edb17"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -610,7 +638,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "b7c74a69eba0d7235dce4a31ac939f9c1a5ff09264977311af16d8580ae93ad1"
+=======
+hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
+>>>>>>> Stashed changes
 =======
 hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 >>>>>>> Stashed changes
@@ -619,7 +651,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+=======
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+>>>>>>> Stashed changes
 =======
 hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 >>>>>>> Stashed changes
@@ -627,15 +663,23 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
+<<<<<<< Updated upstream
 hash = "72049a6892c14eeae9a2a489eacb25377a8cfc27e78b2779ab4eb82ea5c9ad05"
+=======
+hash = "5e88e1e38b41f3feea53e18d4bcea09196859b09278953242cd4978b37842d93"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
 =======
 hash = "65bf6911787bf7e531bb536a6bdde867c36b7652664abe0a800f23687fb2cada"
+>>>>>>> Stashed changes
+=======
+hash = "6dc1ceb696f42964e7d56d19d9c849c7bfda99653dcc2cdbf3e4c13c8288bdd8"
 >>>>>>> Stashed changes
 metafile = true
 
@@ -643,11 +687,14 @@ metafile = true
 file = "mods/fabrishot.pw.toml"
 hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "5b6785c48a7336bcabd2b3465ad64a89f61fbdc114bd3a86d9a4b6880acb1991"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 metafile = true
@@ -674,6 +721,9 @@ hash = "298ebbb6d67fc63048f15a8102e763bda7652087ebbb0a460c9acd40c7b19ce0"
 =======
 file = "mods/fpsdisplay.pw.toml"
 hash = "4fe2ac34f9b1a72e6d603a37910c5013401098af15e82660bc50f25f3c6d1a7b"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 metafile = true
 
@@ -695,34 +745,50 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
 =======
 hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
+>>>>>>> Stashed changes
+=======
+hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
 >>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
 =======
 hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
+>>>>>>> Stashed changes
+=======
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 >>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 =======
 hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+>>>>>>> Stashed changes
+=======
+hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
 >>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "fc62c8ca609288aae3ab5368a40f29bf18f21df923158b8e5a008b45356a33a8"
+=======
+hash = "c068d98a1cc89baf3607efd841c9a8073bcdc2e95a1331de12308b65710df0cb"
+>>>>>>> Stashed changes
 =======
 hash = "c068d98a1cc89baf3607efd841c9a8073bcdc2e95a1331de12308b65710df0cb"
 >>>>>>> Stashed changes
@@ -759,6 +825,11 @@ hash = "713b1d8daa14ec46c8d6ad966b6339ee8c5eff0f034ad14ab9cfe315cc6fcdb0"
 metafile = true
 
 [[files]]
+file = "mods/lilac.pw.toml"
+hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
@@ -776,20 +847,28 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 =======
 hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
 >>>>>>> Stashed changes
+=======
+hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
+metafile = true
+>>>>>>> Stashed changes
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+<<<<<<< Updated upstream
 metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "5f6bbdeff1476501410b0e6f304a3d37183d9774bd1b182c20ffd186bb140ba2"
+=======
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -815,12 +894,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
 file = "mods/more-chat-history.pw.toml"
 hash = "6ba02ed36bd9c31c7585b3788ea70b8fbfd4027e8a4e05481e35bfb7470eaa46"
+=======
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+>>>>>>> Stashed changes
 =======
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 >>>>>>> Stashed changes
@@ -859,7 +942,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+=======
+hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
+>>>>>>> Stashed changes
 =======
 hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 >>>>>>> Stashed changes
@@ -878,16 +965,24 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 =======
 hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
+>>>>>>> Stashed changes
+=======
+hash = "6c7c8c7f424804a1efcfa2a6828d365c3a68eb38016e31f48967f45172de47ee"
 >>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
+=======
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+>>>>>>> Stashed changes
 =======
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 >>>>>>> Stashed changes
@@ -896,10 +991,15 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "14cc4a22ff95357f268e55e99728742c6667e4ad1a3272bb708fb2702ffc5f82"
 metafile = true
 =======
 hash = "2c8dba30f0dd63974cba6e2a30bd6a60f1d69bddce537e5cc2137278926d39e0"
+>>>>>>> Stashed changes
+=======
+hash = "c12fa322ffe32fb95d08020e823084c4da6ba7714327cb082982f158d8631fd9"
+metafile = true
 >>>>>>> Stashed changes
 
 [[files]]
@@ -910,11 +1010,14 @@ metafile = true
 [[files]]
 file = "mods/roughly-searchable.pw.toml"
 hash = "f541ac190aaa5f681e1b21d8eca5a6a259afeed22ccc76e43b0e8e3d4957978b"
+<<<<<<< Updated upstream
 metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "d6df523cc504146a9d96b6bad4e379f364c7bc889d8d17b48ebcda53bdea6d5e"
+=======
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -925,9 +1028,13 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "274afb866aa16175de494029c503d6bc8f88e0cb08a14b534a5bfb25cdd687f1"
 =======
 hash = "33351cde8dacb5678f94cbdb9691f49eb80f3c42d056898f04a0f65a44c4c7aa"
+>>>>>>> Stashed changes
+=======
+hash = "afa454ad1d2a4b3af693b4fda8ceeca616ac895257b8dd2a1a0d5db330d9314f"
 >>>>>>> Stashed changes
 metafile = true
 
@@ -944,16 +1051,24 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
 =======
 hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
+>>>>>>> Stashed changes
+=======
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 >>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "4bf9b4c8888a01c770878fe183637e0a178bde39109334e0439741126c4df656"
+=======
+hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
+>>>>>>> Stashed changes
 =======
 hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
 >>>>>>> Stashed changes
@@ -961,7 +1076,11 @@ metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
+<<<<<<< Updated upstream
 hash = "20dfbf7732693ad03cc712f9ace50107d1a466a9c8d8f97ac15ecb4a16104543"
+=======
+hash = "02a01bda1a82d2aea2a1c32227026e9979c09294318609950bb18f56063dcc8c"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -972,7 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
+=======
+hash = "1b9f8b0039b5fdf0850e6977ee05eb83065bb68d6ac4fed7a5a1609ca8cc5b52"
+>>>>>>> Stashed changes
 =======
 hash = "1b9f8b0039b5fdf0850e6977ee05eb83065bb68d6ac4fed7a5a1609ca8cc5b52"
 >>>>>>> Stashed changes
@@ -980,7 +1103,12 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "9b3fd0e07219491269f7977d4b42c3c4c9769f1c99cf1531e612265157ed7071"
+hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
 metafile = true
 
 [[files]]
@@ -991,16 +1119,24 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "a8e862ee757fdb46cf593a21f87d080823e781629a0f7614b753101891eafc72"
 =======
 hash = "33ac4f6bb510cf129a3be9e78f12b368bcbf0c813d78aad7c510d748e52c7db4"
+>>>>>>> Stashed changes
+=======
+hash = "f130f4654ea7904c73f6c1e828d2a7b39670912a550ec6c0842f5f5fb5ead634"
 >>>>>>> Stashed changes
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "6a28e80a529c1eda8b114d48554b38b680a19e592aed811b8af53c3b9d18e3d7"
+=======
+hash = "3da4278dce5b43b0e0288cea2f86b342aa231b4188d23f3462481afd6d50b197"
+>>>>>>> Stashed changes
 =======
 hash = "3da4278dce5b43b0e0288cea2f86b342aa231b4188d23f3462481afd6d50b197"
 >>>>>>> Stashed changes
@@ -1009,9 +1145,13 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
 =======
 hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
+>>>>>>> Stashed changes
+=======
+hash = "d8bca5ce77fe1a27939ccabc71d6ea996cc5950d023883d34cb48da9e1250784"
 >>>>>>> Stashed changes
 metafile = true
 
@@ -1023,7 +1163,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+=======
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+>>>>>>> Stashed changes
 =======
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 >>>>>>> Stashed changes
@@ -1036,7 +1180,11 @@ hash = "c8bc3cb62c13a63e69aecf1acd8a2770e72c9e53a7fb671e8d214df452a5ebd4"
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hash = "625ada30b89539faf65e278599060155c7d7ae83411e17cd51c569acd90dfcc3"
+=======
+hash = "0386644422f0bdddbfa7bd8e727f9402fd45bde4b1aca7d307ad88fc1e6bf015"
+>>>>>>> Stashed changes
 =======
 hash = "0386644422f0bdddbfa7bd8e727f9402fd45bde4b1aca7d307ad88fc1e6bf015"
 >>>>>>> Stashed changes

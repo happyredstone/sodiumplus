@@ -1,4 +1,5 @@
 name = "LiLaC"
+<<<<<<< Updated upstream
 filename = "lilac-1.0.0-beta.1-mc.1.19.4.jar"
 side = "both"
 
@@ -6,8 +7,21 @@ side = "both"
 url = "https://cdn.modrinth.com/data/Rtp2Lyr5/versions/R0Clyo73/lilac-1.0.0-beta.1-mc.1.19.4.jar"
 hash-format = "sha1"
 hash = "4dc7c510fec2c08e810623de0c81beed4436238c"
+=======
+filename = "lilac-1.0.0-beta.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rtp2Lyr5/versions/UuwX5TxU/lilac-1.0.0-beta.3.jar"
+hash-format = "sha1"
+hash = "e6d449b82261294fd36dd8059d78c521f30cc08d"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "Rtp2Lyr5"
+<<<<<<< Updated upstream
 version = "R0Clyo73"
+=======
+version = "UuwX5TxU"
+>>>>>>> Stashed changes

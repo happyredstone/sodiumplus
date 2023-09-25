@@ -1,5 +1,6 @@
 name = "OptiGUI"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 filename = "optigui-2.1.5.jar"
 side = "client"
 
@@ -16,12 +17,25 @@ url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/noPVqZnY/optigui-2.2.0-al
 hash-format = "sha1"
 hash = "cdda9fbe0683eb62b2d911672b018c079ad74d7e"
 >>>>>>> Stashed changes
+=======
+filename = "optigui-2.2.0-alpha.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/noPVqZnY/optigui-2.2.0-alpha.1.jar"
+hash-format = "sha1"
+hash = "cdda9fbe0683eb62b2d911672b018c079ad74d7e"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "JuksLGBQ"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 version = "x0k8u61W"
+=======
+version = "noPVqZnY"
+>>>>>>> Stashed changes
 =======
 version = "noPVqZnY"
 >>>>>>> Stashed changes

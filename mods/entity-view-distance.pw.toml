@@ -1,5 +1,9 @@
 name = "Entity View Distance"
+<<<<<<< Updated upstream
 filename = "entity-view-distance-1.0.2+1.19.jar"
+=======
+filename = "entity-view-distance-1.1.2%2B1.20.jar"
+>>>>>>> Stashed changes
 side = "both"
 
 [download]

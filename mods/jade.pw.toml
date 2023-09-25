@@ -1,5 +1,6 @@
 name = "Jade 🔍"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 filename = "Jade-1.20-fabric-11.4.3.jar"
 side = "both"
 
@@ -16,12 +17,25 @@ url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/SlsObyHn/Jade-1.20-fabric
 hash-format = "sha1"
 hash = "1bc15df703b8d2d2b68c2374b5cfea258e92a35b"
 >>>>>>> Stashed changes
+=======
+filename = "Jade-1.20-fabric-11.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/SlsObyHn/Jade-1.20-fabric-11.6.0.jar"
+hash-format = "sha1"
+hash = "1bc15df703b8d2d2b68c2374b5cfea258e92a35b"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "nvQzSEkH"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 version = "P36LnXE0"
+=======
+version = "SlsObyHn"
+>>>>>>> Stashed changes
 =======
 version = "SlsObyHn"
 >>>>>>> Stashed changes

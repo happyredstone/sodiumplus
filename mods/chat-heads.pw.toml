@@ -1,4 +1,5 @@
 name = "Chat Heads"
+<<<<<<< Updated upstream
 filename = "chat_heads-0.10.20-fabric-1.20.jar"
 side = "client"
 
@@ -6,8 +7,21 @@ side = "client"
 url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/CJCClsCd/chat_heads-0.10.20-fabric-1.20.jar"
 hash-format = "sha1"
 hash = "edeabe8ac04275f066b452c0ca86ae465b5fb914"
+=======
+filename = "chat_heads-0.10.22-fabric-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/gzgdiHby/chat_heads-0.10.22-fabric-1.20.jar"
+hash-format = "sha1"
+hash = "9a591c62cfbff2ed7ff314ae8b6dd83f4ce4613b"
+>>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
+<<<<<<< Updated upstream
 version = "CJCClsCd"
+=======
+version = "gzgdiHby"
+>>>>>>> Stashed changes

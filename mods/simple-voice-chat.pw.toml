@@ -1,23 +1,4 @@
 name = "Simple Voice Chat"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-filename = "voicechat-quilt-1.20.1-2.4.18.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/H7gbaWdG/voicechat-quilt-1.20.1-2.4.18.jar"
-hash-format = "sha1"
-hash = "06db7958f7b331b637788d5a550745ba8bfb6f66"
-=======
-filename = "voicechat-quilt-1.20.1-2.4.24.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/Nc9kJWyt/voicechat-quilt-1.20.1-2.4.24.jar"
-hash-format = "sha1"
-hash = "cd14fa6352a3f4878330feb5c838a2ae5e646cde"
->>>>>>> Stashed changes
-=======
 filename = "voicechat-quilt-1.20.1-2.4.25.jar"
 side = "both"
 
@@ -25,17 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/bYmIHdsG/voicechat-quilt-1.20.1-2.4.25.jar"
 hash-format = "sha1"
 hash = "d80f91d4e3f5e1d8f3ae26cab5e2c00ba781a13c"
->>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-version = "H7gbaWdG"
-=======
-version = "Nc9kJWyt"
->>>>>>> Stashed changes
-=======
 version = "bYmIHdsG"
->>>>>>> Stashed changes

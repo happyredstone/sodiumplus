@@ -1,14 +1,4 @@
 name = "Sound Physics Remastered"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-filename = "soundphysics-fabric-1.20.1-1.1.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/tFcSgMDe/soundphysics-fabric-1.20.1-1.1.2.jar"
-hash-format = "sha1"
-hash = "75c05a34e4d22f6307aa7c22e244d7904e274262"
-=======
 filename = "soundphysics-fabric-1.20.1-1.2.1.jar"
 side = "both"
 
@@ -16,26 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/67Uq017p/soundphysics-fabric-1.20.1-1.2.1.jar"
 hash-format = "sha1"
 hash = "4993f388e254abdaa551869650414fc92f164811"
->>>>>>> Stashed changes
-=======
-filename = "soundphysics-fabric-1.20.1-1.2.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/67Uq017p/soundphysics-fabric-1.20.1-1.2.1.jar"
-hash-format = "sha1"
-hash = "4993f388e254abdaa551869650414fc92f164811"
->>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "qyVF9oeo"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-version = "tFcSgMDe"
-=======
 version = "67Uq017p"
->>>>>>> Stashed changes
-=======
-version = "67Uq017p"
->>>>>>> Stashed changes

@@ -1,15 +1,5 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-name = "Entity Texture Features"
-filename = "entity_texture_features_fabric_1.20-4.5.0.jar"
-=======
 name = "[ETF] Entity Texture Features"
 filename = "entity_texture_features_fabric_1.20-4.5.1.jar"
->>>>>>> Stashed changes
-=======
-name = "[ETF] Entity Texture Features"
-filename = "entity_texture_features_fabric_1.20-4.5.1.jar"
->>>>>>> Stashed changes
 side = "client"
 
 [download]

@@ -1,29 +1,13 @@
 name = "Chat Reporting Helper"
 filename = "Chat Reporting Helper.zip"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/tN4E9NfV/versions/7zxgLdb2/Chat%20Reporting%20Helper.zip"
 hash-format = "sha1"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-hash = "523548d7c461c979b85586730de3fedfa2bda169"
-=======
 hash = "4b3c263defd89be217bddec65543d0be15cd10f9"
->>>>>>> Stashed changes
-=======
-hash = "4b3c263defd89be217bddec65543d0be15cd10f9"
->>>>>>> Stashed changes
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-file-id = 4675818
-=======
-file-id = 4753776
->>>>>>> Stashed changes
-=======
-file-id = 4753776
->>>>>>> Stashed changes
-project-id = 855981
+[update.modrinth]
+mod-id = "tN4E9NfV"
+version = "7zxgLdb2"

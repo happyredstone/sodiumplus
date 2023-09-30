@@ -1,23 +1,4 @@
 name = "Sodium"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-filename = "sodium-fabric-mc1.20.1-0.5.1.jar"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar"
-hash-format = "sha1"
-hash = "64908970887e85b6aa9fe4eaa690ddcb84c3369c"
-=======
-filename = "sodium-fabric-mc1.20.1-0.5.2.jar"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar"
-hash-format = "sha1"
-hash = "0bd317776db069f7ed1035f6b8ef628ebbe7779d"
->>>>>>> Stashed changes
-=======
 filename = "sodium-fabric-mc1.20.1-0.5.3.jar"
 side = "client"
 
@@ -25,17 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar"
 hash-format = "sha1"
 hash = "74784e6deb72e8cdb4e3788ac3a3cfd88fc77acf"
->>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-version = "OkwCNtFH"
-=======
-version = "6SSPmLc9"
->>>>>>> Stashed changes
-=======
 version = "4OZL6q9h"
->>>>>>> Stashed changes

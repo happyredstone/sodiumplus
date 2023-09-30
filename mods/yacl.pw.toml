@@ -1,41 +1,13 @@
 name = "YetAnotherConfigLib"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-filename = "yet-another-config-lib-fabric-3.1.0+1.20.jar"
+filename = "yet-another-config-lib-fabric-3.2.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/CgwTUAR2/yet-another-config-lib-fabric-3.1.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/3hsIB5yP/yet-another-config-lib-fabric-3.2.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "0c6d76e383439662c2f0871e170e6e465d2f84ef"
-=======
-filename = "yet-another-config-lib-fabric-3.1.1+1.20.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/VPm1SrE4/yet-another-config-lib-fabric-3.1.1%2B1.20.jar"
-hash-format = "sha1"
-hash = "4c4f5b2db75d92866f83a4c899fde1e619fd759a"
->>>>>>> Stashed changes
-=======
-filename = "yet-another-config-lib-fabric-3.2.0+1.20.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/RBAUxw9P/yet-another-config-lib-fabric-3.2.0%2B1.20.jar"
-hash-format = "sha1"
-hash = "6aa9b3c511261791bb10d5e1b0ec807df1bf648b"
->>>>>>> Stashed changes
+hash = "68ed6a69b22da12916cec79043011110e93ae900"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-version = "CgwTUAR2"
-=======
-version = "VPm1SrE4"
->>>>>>> Stashed changes
-=======
-version = "RBAUxw9P"
->>>>>>> Stashed changes
+version = "3hsIB5yP"

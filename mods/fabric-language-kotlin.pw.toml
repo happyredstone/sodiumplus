@@ -1,14 +1,4 @@
 name = "Fabric Language Kotlin"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-filename = "fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/s10JMAtS/fabric-language-kotlin-1.10.8%2Bkotlin.1.9.0.jar"
-hash-format = "sha1"
-hash = "06a973a9e97b6dc673dfc1c519f2118dcb068690"
-=======
 filename = "fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar"
 side = "both"
 
@@ -16,26 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/48ri5y9r/fabric-language-kotlin-1.10.10%2Bkotlin.1.9.10.jar"
 hash-format = "sha1"
 hash = "c708f3f4e94f0f66e72c6e96858368f0512c3b38"
->>>>>>> Stashed changes
-=======
-filename = "fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/48ri5y9r/fabric-language-kotlin-1.10.10%2Bkotlin.1.9.10.jar"
-hash-format = "sha1"
-hash = "c708f3f4e94f0f66e72c6e96858368f0512c3b38"
->>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "Ha28R6CL"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-version = "s10JMAtS"
-=======
 version = "48ri5y9r"
->>>>>>> Stashed changes
-=======
-version = "48ri5y9r"
->>>>>>> Stashed changes

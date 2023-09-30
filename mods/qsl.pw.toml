@@ -1,23 +1,4 @@
 name = "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-filename = "qfapi-7.1.1_qsl-6.1.1_fapi-0.86.1_mc-1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/ugK6veHN/qfapi-7.1.1_qsl-6.1.1_fapi-0.86.1_mc-1.20.1.jar"
-hash-format = "sha1"
-hash = "6c8117b9f5e502e9dbb2facda1ef4dfcc79f559a"
-=======
-filename = "qfapi-7.2.2_qsl-6.1.2_fapi-0.88.1_mc-1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/vTQynnGn/qfapi-7.2.2_qsl-6.1.2_fapi-0.88.1_mc-1.20.1.jar"
-hash-format = "sha1"
-hash = "47cefbfac7c25e706345a076b2ae48a2bccabe04"
->>>>>>> Stashed changes
-=======
 filename = "qfapi-7.3.0_qsl-6.1.2_fapi-0.89.0_mc-1.20.1.jar"
 side = "both"
 
@@ -25,17 +6,8 @@ side = "both"
 url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Ycmh3qg8/qfapi-7.3.0_qsl-6.1.2_fapi-0.89.0_mc-1.20.1.jar"
 hash-format = "sha1"
 hash = "4f358bb878925d944ce11efe0c764f9251acb999"
->>>>>>> Stashed changes
 
 [update]
 [update.modrinth]
 mod-id = "qvIfYCYJ"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-version = "ugK6veHN"
-=======
-version = "vTQynnGn"
->>>>>>> Stashed changes
-=======
 version = "Ycmh3qg8"
->>>>>>> Stashed changes

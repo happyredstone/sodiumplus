@@ -1,5 +1,5 @@
 [server]
-enabled = false
+enabled = true
 
 folders = [
     "mods",

@@ -20,3 +20,11 @@ builder
 go.work
 go.work.sum
 bld
+.github
+builder.exe
+build.toml
+Makefile
+packwiz-installer.jar
+install
+media
+server

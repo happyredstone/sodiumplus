@@ -55,4 +55,5 @@ func init() {
 	rootCmd.AddCommand(CleanAllCommand)
 	rootCmd.AddCommand(BundleAllCommand)
 	rootCmd.AddCommand(ServeCommand)
+	rootCmd.AddCommand(InstallCommand)
 }

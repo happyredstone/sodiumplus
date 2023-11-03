@@ -10,3 +10,7 @@ vendor
 bin/*
 !bin/lipo*
 !bin/README.md
+builder.exe
+packwiz-installer.jar
+install
+server

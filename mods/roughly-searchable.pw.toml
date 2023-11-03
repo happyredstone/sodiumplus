@@ -1,13 +1,13 @@
 name = "Roughly Searchable"
-filename = "roughly-searchable-2.5.3+1.19.4.jar"
+filename = "roughly-searchable-2.6.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/njGhQ4fN/versions/jgVJ81P0/roughly-searchable-2.5.3%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/njGhQ4fN/versions/NrzGdIx2/roughly-searchable-2.6.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "64cc13c6152ad73b3a8cd932ffca98988635f6b0"
+hash = "7fa3ad667462f910f55ee09ff932dd33e8d901b6"
 
 [update]
 [update.modrinth]
 mod-id = "njGhQ4fN"
-version = "jgVJ81P0"
+version = "NrzGdIx2"

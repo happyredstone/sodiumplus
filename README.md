@@ -1,5 +1,7 @@
 # Sodium Plus
 
+[![Discord](https://img.shields.io/discord/1076964439531720724)](https://discord.com/invite/BCzdyAUeb3)
+
 ## About
 
 Sodium Plus aims to re-create the experience of the OptiFine mod, while still having the most performant Minecraft client possible. It also comes with some visual tweaks, quality-of-life changes, and lots of bug fixes.

@@ -1,9 +1,0 @@
-#!/bin/bash
-
-BIN="bin/builder.$(uname -m)"
-
-if [[ ! -f "$BIN" ]]; then
-    make
-fi
-
-"$BIN" "$@"

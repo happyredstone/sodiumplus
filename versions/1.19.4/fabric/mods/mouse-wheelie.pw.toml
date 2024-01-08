@@ -1,0 +1,13 @@
+name = "Mouse Wheelie"
+filename = "mousewheelie-1.13.0+mc1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/W6lK0S30/mousewheelie-1.13.0%2Bmc1.19.4.jar"
+hash-format = "sha1"
+hash = "1b18b0704e7a7e5e95d1a13fdb128d7652f844c5"
+
+[update]
+[update.modrinth]
+mod-id = "u5Ic2U1u"
+version = "W6lK0S30"

@@ -1,0 +1,13 @@
+name = "Default Dark Mode"
+filename = "Default-Dark-Mode-1.13-2023.6.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/CAjacQbd/Default-Dark-Mode-1.13-2023.6.0.zip"
+hash-format = "sha1"
+hash = "1cc8a513e9c3f529b29d8257dd94abfe068f7af7"
+
+[update]
+[update.modrinth]
+mod-id = "6SLU7tS5"
+version = "CAjacQbd"

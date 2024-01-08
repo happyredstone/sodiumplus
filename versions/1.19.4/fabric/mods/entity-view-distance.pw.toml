@@ -1,0 +1,13 @@
+name = "Entity View Distance"
+filename = "entity-view-distance-1.1.1+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ihnBJ6on/versions/rumDk18Y/entity-view-distance-1.1.1%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "60ac0a56dba5de169244209247b1f8d2643ea963"
+
+[update]
+[update.modrinth]
+mod-id = "ihnBJ6on"
+version = "rumDk18Y"

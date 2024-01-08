@@ -1,0 +1,13 @@
+name = "Wakes"
+filename = "wakes-0.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/SMVe5Pks/wakes-0.2.3.jar"
+hash-format = "sha1"
+hash = "fe7f19fd6e1259e7a6673487a8b0eb101e79677b"
+
+[update]
+[update.modrinth]
+mod-id = "dlNu0RQY"
+version = "SMVe5Pks"

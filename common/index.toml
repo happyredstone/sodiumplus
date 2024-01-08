@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "f6fe8a4f133e177cf0c944e624bfe5e5d6dc553c1a9fff81e8f2b900f7aa62f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "15c66ca81088fc8a6ce292ae4223d7f118d7d8d5d4be036ea2f3b71f4290467b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+metafile = true

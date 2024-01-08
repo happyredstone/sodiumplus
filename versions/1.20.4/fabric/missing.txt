@@ -1,0 +1,19 @@
+// Output from bootstrap.py
+
+** [ERROR] Failed to add: roughly-searchable
+** [ERROR] Failed to add: borderless-mining
+** [ERROR] Failed to add: fastquit
+** [ERROR] Failed to add: e4mc
+** [ERROR] Failed to add: capes
+** [ERROR] Failed to add: dripsounds-fabric
+** [ERROR] Failed to add: modelfix
+** [ERROR] Failed to add: cit-resewn
+** [ERROR] Failed to add: shulkerboxtooltip
+** [ERROR] Failed to add: yosbr
+** [ERROR] Failed to add: lambdabettergrass
+** [ERROR] Failed to add: animatica
+** [ERROR] Failed to add: lambdynamiclights
+** [ERROR] Failed to add: cull-leaves
+** [ERROR] Failed to add: dashloader
+** [ERROR] Failed to add: main-menu-credits
+** [ERROR] Failed to add: boat-item-view

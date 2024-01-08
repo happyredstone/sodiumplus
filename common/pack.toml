@@ -1,0 +1,16 @@
+name = "Sodium Plus Common"
+author = "HappyRedstone Modding"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de31fb2fb8505b2b4f473b8aa986d63187997dd7b23c6b567f0c3094acee006e"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.19.4"
+
+[options]
+acceptable-game-versions = ["1.19.4", "1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4"]

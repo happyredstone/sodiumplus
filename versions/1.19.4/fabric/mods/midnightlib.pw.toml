@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-fabric-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/lalsp8PT/midnightlib-fabric-1.3.0.jar"
+hash-format = "sha1"
+hash = "de59c953550796ced676a0b055584b82c83662bb"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "lalsp8PT"

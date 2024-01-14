@@ -1,7 +1,0 @@
-// Output from bootstrap.py
-
-** [ERROR] Failed to add: roughly-searchable
-** [ERROR] Failed to add: debugify
-** [ERROR] Failed to add: wakes
-** [ERROR] Failed to add: lambdabettergrass
-** [ERROR] Failed to add: fadeless

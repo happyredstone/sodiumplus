@@ -4,4 +4,4 @@
 - [x] Make a bootstrapper
 - [ ] Create tooling to merge the pack folder and the `common` folder when building the pack
 - [ ] Create a tool to bulk update mods
-- [ ] Fix bootstrapper to work with rate limiting
+- [ ] Fix 1.20.(2,3,4) mods

@@ -1,7 +1,4 @@
 # Sodium Plus
-
-#FROM NOW ON USE https://github.com/happyredstone/sodiumplus INSTEAD!!
-
 [![Discord](https://img.shields.io/discord/1076964439531720724)](https://discord.com/invite/BCzdyAUeb3)
 
 ## About

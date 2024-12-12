@@ -13,7 +13,7 @@ jobs:
     - name: Build
       run: |
         [[ -f bld ]] && rm -f bld
-        go build -o bld ./builder
+        go build -buildvcs=false -o bld ./builder
         ./bld b
         mkdir dist
         mv *.zip *.tar.gz *.mrpack dist

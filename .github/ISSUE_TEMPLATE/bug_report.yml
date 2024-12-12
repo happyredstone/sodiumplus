@@ -1,12 +1,8 @@
 name: Bug Report
 description: Create a bug report to help us improve the modpack.
-title: "[Bug] "
+title: "[Bug] <Your bug title goes here>"
 labels: ["bug"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: description
     attributes:
@@ -55,6 +51,8 @@ body:
         - MacOS
         - Linux
         - Other (please include in your description)
+    validations:
+      required: true
   - type: dropdown
     id: cpu-architecture
     attributes:
@@ -70,9 +68,6 @@ body:
         - Some AMD processor
         - Some Apple CPU
         - Other (please include in your description)
-      default: 0
-    validations:
-      required: true
   - type: dropdown
     id: gpu
     attributes:
@@ -85,9 +80,6 @@ body:
         - AMD GPUs
         - Intel GPUs
         - Other (please include in your description)
-      default: 0
-    validations:
-      required: true
   - type: input
     id: crash-report
     attributes:

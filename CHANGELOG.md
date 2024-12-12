@@ -1,43 +1,369 @@
-# v2.2.2-beta1
+# Changelog
 
-- Added Indium (Closes https://github.com/NoSadBeHappy/sodiumplus/issues/8) 
-- Added Stack to Nearby Chests
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+We are currently waiting on the following mods to update to 1.21.4:
+
+- CalcMod
+- SuperMartijn642's Config Lib
+- TxniLib
+- MixinTrace
+- e4mc
+- FabricSkyBoxes Interop
+- FastQuit
+- Stack to Nearby Chests
+- Better Mount HUD
+- Biome Particle Weather
+- Sodium Leaf Culling
+- Default Dark Mode
+- CIT Resewn
+- Durability Tooltip
+- Cull Leaves
+- Sodium Dynamic Lights
+- Hold That Chunk
+- Presence Footsteps
+- Indium
+- AmbientSounds
+- Held Item Info
+- Wakes
+- FPS - Display
+- Sodium Options Mod Compat
+- Sodium Options API
+- Debugify
+- Continuity
+- Fabrishot
+- FabricSkyboxes
+- Sodium Extras
+- EMI
+- EMI Trades
+- EMI Loot
+- EMIffect
+- EMI Enchanting
+
+### Added
+
+- Sodium Options API
+- Sodium Options Mod Compat
+- TxniLib
+- Sodium Extras
+- Sodium Shadowy Path Blocks
+- Sodium Leaf Culling
+- Sodium Dynamic Lights
+- BetterGrassify
+- Cubes Without Borders
+- Mouse Tweaks
+- Client Sort
+
+### Changed
+
+- Updated to Minecraft 1.21.4
+- Replaced ViaFabricPlus with Full Brightness Toggle
+- Updated Packwiz
+- Moved changelogs to a Keep a Changelog format
+- Updated build pipeline
+- Updated all mods
+- Moved all changes over to the GitHub (finally)
+- Moved back to over Fabric
+
+### Removed
+
+- ViaFabricPlus
+- QSL/QFAPI
+- Quilt Kotlin Libraries
+- LiLaC
+- Roughly Enough Professions
+- Roughly Searchable
+- Animatica
+- Starlight
+- Memory Leak Fix
+- Drip Sounds
+- AdvancementInfo
+- Effective
+- AntiGhost
+- LambDynamicLights
+- LambdaBetterGrass
+- Main Menu Credits
+- Eating Animation
+- Borderless Mining
+- Mouse Wheelie
+- DashLoader
+- REI
+- Lazy Language Loader
+
+## [2.3.1-beta.1] - 2024-08-21
+
+### Added
+
+- Better Statistics Screen
+- Better Clouds
+
+### Fixed
+
+- Moving in a boat crashed the game (#30)
+
+### Changed
+
+- Updated all mods & resource packs
+- Replaced Full Brightness Toggle with Cats Eyes
+- Modified default controls for a smoother experience
+
+## [2.3.0-alpha.2] - 2024-07-4
+
+### Changed
+
+- Fixed pack format
+
+## [2.3.0-alpha.1] - 2024-07-1
+
+**DO NOT USE THIS VERSION! IT IS BROKEN! Instead, use v2.3.0-alpha.2**
+
+### Removed
+
+- A bunch of mods that weren't available for 1.21
+
+## [2.2.11] - 2024-03-25
+
+### Added
+
+- Ambient Sounds
+- Effective
+- Biome Particle Weather (recommended by @savely22827 on [our Discord](https://discord.gg/dsct28MQMC))
+- ViaFabricPlus
+
+### Changed
+
+- Updated Quilt
 - Updated all mods
 
-# v2.2.1-beta1
+## [2.2.10] - 2023-11-03
 
-BETA VERSION FOR 1.20!
+### Added
 
-- Remove Smooth Boot (not needed)
-- Remove Where is It / Chest Tracker
-- Remove Bobby
-- Remove LambDynamicLights
-- Remove Midnight Controls
-- Remove Indium
+- Calc Mod
+- Fadeless
+- LiLaC
+- Quilt Kotlin Libraries
+- Wakes
 
-The full release for 1.20 or 1.20.1 will include all the mods removed in this release unless otherwise noted.
+### Fixed
 
-# v2.2.0
+- Video settings button leading to a crash (#23)
+- Missing CalcMod (#22)
+- Crashing upon opening mod menu (#20)
 
-Re-added some of the mods that were previously removed due to incompatibilities.
+### Changed
 
-__Note:__ LazyDFU will not be added back, as it is redundant as of 1.19.4.
+- Updated AdvancementInfo
+- Updated AppleSkin
+- Updated Architectury API
+- Updated BetterF3
+- Updated Chat Heads
+- Updated Cloth Config
+- Updated Collective
+- Updated Continuity
+- Updated Cull Leaves
+- Updated DashLoader
+- Updated Debugify
+- Updated Durability Tooltip
+- Updated Dynamic FPS
+- Updated e4mc
+- Updated Eating Animation
+- Updated Entity Model Features
+- Updated Entity Culling
+- Updated Entity Texture Features
+- Updated FabricSkyBoxes Interop
+- Updated FabricSkyboxes
+- Updated FabriShot
+- Updated Falling Leaves
+- Updated FastQuit
+- Updated FerriteCore
+- Updated FPS - Display
+- Updated ImmediatelyFast
+- Updated Indium
+- Updated Iris
+- Updated Jade
+- Updated LambdaBetterGrass
+- Updated LambDynamicLights
+- Updated Language Reload
+- Updated MaLiLib
+- Updated Memory Leak Fix
+- Updated ModMenu
+- Updated MoreCulling
+- Updated Mouse Wheelie
+- Updated OptiGUI
+- Updated Presence Footsteps
+- Updated Puzzle
+- Updated Quilt Standard Libraries
+- Updated Reese's Sodium Options
+- Updated Roughly Enough Items
+- Updated Roughly Enough Professions
+- Updated Roughly Searchable
+- Updated Simple Voice Chat
+- Updated Sodium Extra
+- Updated Sodium
+- Updated Sound Physics Remastered
+- Updated Stack to Nearby Chests
+- Updated SuperMartijn642's Config Lib
+- Updated Visuality
+- Updated Xaero's Minimap
+- Updated Xaero's World Map
+- Updated YetAnotherConfigLib
+- Updated Zoomify
+- Updated Chat Reporting Helper
+- Updated Default Dark Mode
+- Updated Fast Better Grass
 
-- Added Architectury API
-- Added Bobby
-- Added DashLoader
-- Added Durability Tooltip
-- Added Entity View Distance
-- Added Lazy Language Loader
-- Added Mouse Wheelie
-- Added Roughly Enough Items
-- Added Roughly Enough Professions
-- Added Roughly Searchable
-- Added Shulker Box Tooltip
-- Added Smooth Boot
-- Added Wavey Capes
-- Added Default Dark Mode
-- Added Even Better Enchants
+### Removed
+
+- Slyde
+- NoFade
+- Fabric Language Kotlin
+
+## [2.2.9] - 2023-09-24
+
+### Added
+
+- Wakes
+
+### Changed
+
+- Updated all mods
+- Updated Quilt
+
+## [2.2.8-hotfix.2] - 2023-08-21
+
+### Removed
+
+- Some overrides
+
+## [2.2.9] - 2023-08-21
+
+**USE v2.2.8-hotfix.2 INSTEAD!**
+
+~~What is happening to the versioning~~
+
+### Changed
+
+- Uses no overrides unless needed.
+
+## [2.2.10] - 2023-08-21
+
+**USE v2.2.8-hotfix.2 INSTEAD!**
+
+### Fixes
+
+- Revert Sodium back to v4.x (#17)
+
+## [2.2.8] - 2023-08-16
+
+### Added
+
+- [CalcMod](https://modrinth.com/mod/calcmod)
+
+### Changed
+
+- Replaced Full Brightness Toggle with Cat Eyes
+- Changed some default keybinds
+
+## [2.2.7] - 2023-08-14
+
+### Fixed
+
+- Fixed a major crash in v2.2.6
+
+### Changed
+
+- Updated all mods
+
+### Removed
+
+- Bobby
+
+## [2.2.6] - 2023-08-13
+
+### Fixed
+
+- Added back the Sodium mod donation button. (Closes [#13](https://github.com/NoSadBeHappy/sodiumplus/issues/13))
+
+## [2.2.4] - 2023-07-31
+
+### Added
+
+- Where is It / Chest Tracker
+- Bobby
+- LambDynamicLights
+- Midnight Controls
+- Indium
+
+### Changed
+
+- Updated all mods.
+- Updated Quilt.
+
+## [2.2.3-pre.1] - 2023-06-28
+
+### Added
+
+- LambaBetterGrass
+- LambDynamicLights
+
+### Changed
+
+- Update to Minecraft 1.20.1
+- Moved to Quilt!
+
+## [2.2.2-beta.1] - 2023-06-26
+
+### Added
+
+- Stack to Nearby Chests
+
+### Fixes
+
+- Added Indium (#8)
+
+### Changed
+
+- Updated all mods
+
+## [2.2.1-alpha.1] - 2023-06-22
+
+### Removed
+
+- Smooth Boot (not needed)
+- Where is It / Chest Tracker
+- Bobby
+- LambDynamicLights
+- Midnight Controls
+- Indium
+
+## [2.2.0] - 2023-05-15
+
+### Added
+
+- Architectury API
+- Bobby
+- DashLoader
+- Durability Tooltip
+- Entity View Distance
+- Lazy Language Loader
+- Mouse Wheelie
+- Roughly Enough Items
+- Roughly Enough Professions
+- Roughly Searchable
+- Shulker Box Tooltip
+- Smooth Boot
+- Wavey Capes
+- Default Dark Mode
+- Even Better Enchants
+
+### Changed
+
 - Updated Chat Heads
 - Updated Chat Reporting Helper
 - Updated e4mc
@@ -48,7 +374,6 @@ __Note:__ LazyDFU will not be added back, as it is redundant as of 1.19.4.
 - Updated Indium
 - Updated Iris
 - Updated Jade
-- Removed LibJF
 - Updated MaliLib
 - Updated Midnight Controls
 - Updated Simple Voice Chat
@@ -58,20 +383,23 @@ __Note:__ LazyDFU will not be added back, as it is redundant as of 1.19.4.
 - Updated Xaero's World Map
 - Updated YetAnotherConfigLib
 - Changed Main Menu Credits config
-- Removed Slyde
 
-# v2.1.0
+### Removed
 
-Sodium Plus gets an overhaul!
+- LibJF
+- Slyde
 
-We have added a bunch of performance mods, most of which are heavily inspired by the pack __Fabulously Optimised__.
+## [2.1.0] - 2023-05-02
 
-Sodium Plus has also been updated to 1.19.4, but due to this, we have had to remove some mods due to incompatibilities, so hopefully we will be able to add them back in as they update. The list of those mods is below.
+### Changed
+
+- Replaced Logical Zoom with Zoomify
+
+### Removed
 
 - LazyDFU
 - DashLoader
 - Wavey Capes
-- Logical Zoom __(Replaced with Zoomify)__
 - Default Dark Mode
 - Roughly Enough Items
 - ClickThrough
@@ -83,47 +411,64 @@ Sodium Plus has also been updated to 1.19.4, but due to this, we have had to rem
 - Mouse Wheelie
 - Smooth Boot
 
-Also, @NoSadBeHappy broke Packwiz while working on this update, so the main branch on GitHub is currently broken. When he has time, @RedstoneWizard08 work on disaster relief. 
+## [2.0.0-beta.8] - 2023-04-21
 
-Edit: Yeah, @NoSadBeHappy is apparently not very good at keyboard things (this is a joke, he's great, don't hate) so I had to fix all the issues. 😆
+### Changed
 
-# v2.0.0-beta8
+- Updated all mods
 
-Actually updating all mods for better reliability.
+## [2.0.0-beta.7] - 2023-04-21
 
-# v2.0.0-beta7
+### Added
 
-DO NOT USE THIS VERSION! IT IS VERY BUGGY!
+- Sound Physics Remastered
 
-Added Sound Physics Remastered (https://modrinth.com/mod/sound-physics-remastered)
+### Removed
 
-Removed StepUp as some servers think of it as cheats.
+- StepUp
 
-# v2.0.0-beta6
+## [2.0.0-beta.6] - 2023-04-03
 
-Replaces Not Enough Crashes with Crafty Crashes as suggested by Iris Shaders.
+### Changed
 
-# v2.0.0-beta5
+- Replaced Not Enough Crashes with Crafty Crashes as suggested by Iris Shaders.
 
-Updated all mods, and added an LoD version back!
+## [2.0.0-beta.5] - 2023-04-02
 
-# v2.0.0-beta4
+### Changed
 
-- Removed First Person Model
+- Updated all mods
+- Rebirthed the LoD version
+
+## [2.0.0-beta.4] - 2023-02-19
+
+### Changed
+
 - Configured REI
 
-# v2.0.0-beta3
+### Removed
+
+- First Person Model
+
+## [2.0.0-beta.3] - 2023-02-19
+
+### Added
+
+- Continuity
+- MixinTrace
+- Fabric Skyboxes
+- Default Dark Mode
+- Even Better Enchants
+- Hyper Realistic Sky
+
+### Changed
 
 - Updated EntityCulling
 - Updated Architectury API
-- Added Continuity
-- Added MixinTrace
-- Added Fabric Skyboxes
-- Added Default Dark Mode (optional)
-- Added Even Better Enchants (optional)
-- Added Hyper Realistic Sky (optional)
 
-# v2.0.0-beta2
+## [2.0.0-beta.2] - 2023-02-18
+
+### Changed
 
 - Updated Chat Heads
 - Updated EntityCulling
@@ -135,62 +480,101 @@ Updated all mods, and added an LoD version back!
 - Added proper changelog
 - Actually told packwiz to ignore dist files
 
-# v2.0.0-beta1
+## [2.0.0-beta1] - 2023-02-18
+
+### Changed
 
 - Switch to Packwiz!
 - Update to 1.19.3.
-- Remove Enhanced Block Entities, as it isn't supported in 1.19.3 yet.
 
-# v1.4.3 LoD
+### Removed
 
-This is a version of v.1.4.1 that uses quilt loader.
+- Enhanced Block Entities
 
-# v1.4.2
+## [1.4.3+LoD] - 2022-11-22
 
-This is a version of v.1.4.0 that uses quilt loader instead of fabric. Sense quilt is faster, and this is a optimazation pack, I am working on moving to only using quilt. This is the first test. Please report any issues you find to my github issues!
+### Changed
 
-# v1.4.1 LoD
+- Uses Quilt instead of Fabric.
 
-This is a updated version of the LoD release v.1.3.1. This has no mods removed, adds litematica to go with v.1.4.0, and has iris shaders included. Although iris is not supported by distant horisons, it can work, so I have left it in there. Use at your own risk, and your game may break. I have also updated all mods. This is basically v.1.4.0 with Distant Horisons added.
+## [1.4.2] - 2022-11-22
 
-# v1.4.0
+### Changed
 
-This is the first major release for Minecraft 1.19.2. This has all of the mods back in that I removed in previous versions, as compatability problems are solved. I have also added litematica, as this seems to be a useful mod that I only started using recently. I have also updated all mods, and updated fabric launcher.
+- Uses Quilt instead of Fabric.
 
-# v1.3.1
+## [1.4.1+LoD] - 2022-11-22
 
-This is a alpha version of Sodium Plus with Distant Horisons mod added. This is a LoD mod which makes it possible to have extremely far render distances without too much extra performance loss.
+### Added
 
-This version also does not include the iris mod, as shaders are not supported with distant horizons.
+- Litematica
+- Distant Horizons
 
-More information is found here: https://modrinth.com/mod/distanthorizons
+### Changed
 
-# v1.3.0
+- Updated all mods
 
-This is a beta version for Minecraft 1.19.2. I have again removed some mods because of incompadablilties, but hope to add them back in as they get updated. The list of mods removed is below.
+## [1.4.0] - 2022-11-22
 
-- REI (Roughly Enough Items) (and Architectury API)
-- Iris shaders
+### Added
+
+- Litematica
+
+### Changed
+
+- Updated all mods
+- Updated to Minecraft 1.19.2
+- Updated Fabric
+
+## [1.3.1+LoD] - 2022-09-14
+
+### Added
+
+- Distant Horizons
+
+### Removed
+
+- Iris Shaders
+
+## [1.3.0-beta.1] - 2022-09-13
+
+### Removed
+
+- Roughly Enough Items
+- Architectury API
+- Iris Shaders
 - Xaero's Minimap
 - Xaero's World Map
 
-# v1.2.1
+## [1.2.1] - 2022-09-13
 
-This is a minor update for 1.2.0 for Minecraft version 1.19. Includes the 4 mods I removed in Version 1.2.0, and updates all mods.
+### Added
 
-# v1.2.0
+- Not Enough Crashes
+- Drip Sounds
+- Slyde
+- LibJF
 
-This is the first release for Minecraft 1.19. I have removed 3 mods from this version because they were crashing Minecraft, so therefor this is a beta version and I will upload a new version once those mods update, or I figure out the issue.
+### Changed
 
-The missing mods are:
+- Updated all mods.
 
-- Not Enough Crashes (Fabric): https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
-- Drip Sounds (Fabric): https://www.curseforge.com/minecraft/mc-mods/dripsounds-fabric
-- Slyde: https://modrinth.com/mod/slyde (and LibJF: https://modrinth.com/mod/libjf)
+## [1.2.0] - 2022-06-23
 
-# v1.1.1
+### Changes
 
-Updated to 1.18.2.
+- Updated to Minecraft 1.19
 
-Fixes licensing issues, as that is why the pack was off of Modrinth for a while, and why we have removed the previous versions.
+### Removed
 
+- Not Enough Crashes
+- Drip Sounds
+- Slyde
+- LibJF
+
+## [1.1.1] - 2022-06-20
+
+### Changes
+
+- Updated to Minecraft 1.18.2
+- Fixes licensing issues

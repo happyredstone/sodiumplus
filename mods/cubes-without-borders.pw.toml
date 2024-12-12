@@ -1,0 +1,13 @@
+name = "Cubes Without Borders"
+filename = "cwb-fabric-3.0.0+mc1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/7JJnrLXi/cwb-fabric-3.0.0%2Bmc1.21.3.jar"
+hash-format = "sha1"
+hash = "101dffee2666b23e51c1b7e810e9455a5c41a0de"
+
+[update]
+[update.modrinth]
+mod-id = "ETlrkaYF"
+version = "7JJnrLXi"

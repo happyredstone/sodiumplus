@@ -1,16 +1,15 @@
 name = "Sodium Plus"
-author = "NoSadBeHappy"
-version = "2.2.10"
+author = "HappyRedstone Modding"
+version = "2.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "88f27ad870115632f15ff24be2e40274c51fa57fe96a01d53f54c140a956d4e5"
+hash = "d129413938b74db80aabbe28e0fe0039c513ca47f59713db30e06dd2344dd6a2"
 
 [versions]
-minecraft = "1.20.1"
-quilt = "0.21.2"
+fabric = "0.16.9"
+minecraft = "1.21.4"
 
 [options]
-acceptable-game-versions = ["1.20.1", "1.20", "1.19", "1.16.5"]

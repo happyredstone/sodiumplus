@@ -1,8 +1,21 @@
 package list
 
-import "strings"
+import (
+	"fmt"
+	"strings"
+
+	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers"
+)
+
+const MarkdownPrefix = "# Mod List\n\n> %s v%s\n\n"
 
 func Markdown() (string, error) {
+	pack, _, err := helpers.GetPack()
+
+	if err != nil {
+		return "", err
+	}
+
 	urls, err := CreateModList()
 
 	if err != nil {
@@ -16,6 +29,7 @@ func Markdown() (string, error) {
 	}
 
 	out = strings.Trim(out, "\n")
+	prefix := fmt.Sprintf(MarkdownPrefix, pack.Name, pack.Version)
 
-	return out, nil
+	return prefix + out, nil
 }

@@ -40,10 +40,9 @@ We are currently waiting on the following mods to update to 1.21.4:
 - FabricSkyboxes
 - Sodium Extras
 - EMI
-- EMI Trades
 - EMI Loot
-- EMIffect
 - EMI Enchanting
+- EMI Ores
 
 ### Added
 
@@ -58,6 +57,11 @@ We are currently waiting on the following mods to update to 1.21.4:
 - Cubes Without Borders
 - Mouse Tweaks
 - Client Sort
+- EMI
+- EMI Loot
+- EMI Enchanting
+- EMI Ores
+- Fzzy Config
 
 ### Changed
 

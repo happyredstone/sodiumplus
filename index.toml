@@ -546,6 +546,26 @@ hash = "2e6e486766a67af1772874d16a715638e9e769c1d7353e8819e9d76342c81f01"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "a8579482813e686001812b5fb065438cd063034675a54343c7a21707e58ef615"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "7266655534f680da122b5221d960a1a8326a9d7268b6151b4407c35e32b759e3"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ebc0864e8af9840c152083dc1abb163a7ea160c4b6ab733521166b658c3a2117"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "26f7c99f3a60f3b8198471b69ff2f63dc89c56926535fe9e9f1c98dc77f318b3"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ff18d27e8b94695cdd87e7b3352d6df72ae0da4c0a2a66ead7dc01ddec485ae1"
 metafile = true
@@ -613,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/full-brightness-toggle.pw.toml"
 hash = "95687170d8d4318c2af84703d76bf7d2ec41a69ad3fa9fa5de40344771300d41"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "1281f9c20e0c7eb4fdde889ff27193008e6e8741d67664c17dedb838dddbf13a"
 metafile = true
 
 [[files]]

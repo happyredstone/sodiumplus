@@ -1,5 +1,9 @@
 # Sodium Plus
-[![Discord](https://img.shields.io/discord/1076964439531720724)](https://discord.com/invite/BCzdyAUeb3)
+
+[![Discord](https://img.shields.io/discord/1076964439531720724?style=for-the-badge&label=Discord&color=blue)](https://discord.com/invite/BCzdyAUeb3)
+[![Modrinth Version](https://img.shields.io/modrinth/v/sodiumplus?style=for-the-badge&logo=modrinth&color=%231BD96A)](https://modrinth.com/modpack/sodiumplus)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/sodiumplus?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/sodiumplus)
+
 
 ## About
 

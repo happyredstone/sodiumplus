@@ -1,0 +1,100 @@
+name: Bug Report
+description: Create a bug report to help us improve the modpack.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: "Ex: When I tried to launch version x.x.x, the game crashed."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Steps to Reproduce
+      description: A clear list of steps to reproduce the bug.
+      placeholder: "Ex: Click on X, then Y, etc. but formatted as a numbered list."
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: A clear and concise description of what you expected to happen.
+      placeholder: "Ex: The game doesn't crash and launches normally."
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Upload any relevant screenshots here.
+      placeholder: "Attach files by dragging and dropping them here."
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of Sodium Plus were you using?
+      placeholder: "Ex: v1.2.3"
+    validations:
+      required: true
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: What operating system(s) do you experience the bug on?
+      multiple: true
+      options:
+        - Windows
+        - MacOS
+        - Linux
+        - Other (please include in your description)
+  - type: dropdown
+    id: cpu-architecture
+    attributes:
+      label: What CPU architecture(s) do you experience the bug on?
+      multiple: true
+      options:
+        - I don't know
+        - x86_64
+        - arm64/aarch64
+        - arm64 (Apple Silicon)
+        - armhf/arm32
+        - Some Intel processor
+        - Some AMD processor
+        - Some Apple CPU
+        - Other (please include in your description)
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: gpu
+    attributes:
+      label: What GPU(s) do you experience the bug on?
+      multiple: true
+      options:
+        - I don't know
+        - No GPU
+        - NVIDIA GPUs
+        - AMD GPUs
+        - Intel GPUs
+        - Other (please include in your description)
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: crash-report
+    attributes:
+      label: Relevant crash report
+      description: If a crash report was generated, upload it to https://mclo.gs and paste the link here.
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here.

@@ -1,0 +1,25 @@
+name: Build Sodium Plus
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: golang:1.20
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Build
+      run: |
+        [[ -f bld ]] && rm -f bld
+        go build -o bld ./builder
+        ./bld b
+        mkdir dist
+        mv *.zip *.tar.gz *.mrpack dist
+
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: Sodium Plus Files
+        path: dist/*

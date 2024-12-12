@@ -1,11 +1,13 @@
 package web
 
 import (
+	"errors"
 	"html/template"
 	"os"
 	"strings"
 
 	_ "embed"
+	"path/filepath"
 )
 
 type FileData struct {
@@ -21,8 +23,32 @@ type PageData struct {
 //go:embed page.tmpl
 var PageTemplate string
 
-func CreatePage(path string) (string, error) {
-	files, err := os.ReadDir(path)
+func CreatePage(root string, path string) (string, error) {
+	real_root, err := filepath.EvalSymlinks(root)
+
+	if err != nil {
+		return "", err
+	}
+
+	real_file, err := filepath.EvalSymlinks(path)
+
+	if err != nil {
+		return "", err
+	}
+
+	ok := strings.HasPrefix(real_file, real_root)
+
+	if !ok {
+		return "", errors.New("path out of bounds")
+	}
+
+	real_path, err := filepath.Rel(real_root, real_file)
+
+	if err != nil {
+		return "", err
+	}
+
+	files, err := os.ReadDir(real_file)
 
 	if err != nil {
 		return "", err
@@ -44,7 +70,7 @@ func CreatePage(path string) (string, error) {
 	}
 
 	data := PageData{
-		Path:  path,
+		Path:  real_path,
 		Files: items,
 	}
 

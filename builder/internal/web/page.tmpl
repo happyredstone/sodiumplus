@@ -29,12 +29,12 @@
         {{ with .Files }}
         <ul>
             <li>
-                <a href="../" class="dir">../</a>
+                <a href="/{{ $.Path }}/.." class="dir">../</a>
             </li>
 
             {{ range . }}
             <li>
-                <a href="{{ .Name }}" class="{{ .Type }}">{{ .Name }}</a>
+                <a href="/{{ $.Path }}/{{ .Name }}" class="{{ .Type }}">{{ .Name }}</a>
             </li>
             {{ end }}
         </ul>

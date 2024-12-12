@@ -266,7 +266,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "51be6888074477438509f13f32b7c11ad40659facfc82a6aac0f0b7411462587"
+hash = "07cacdf155ec9682b84e2ce1cce2be44d672bbb4be3ee3274ef99d22498e27ef"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"

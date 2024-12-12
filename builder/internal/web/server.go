@@ -50,7 +50,7 @@ func CreateServer() *gin.Engine {
 			c.File(path)
 		}
 
-		content, err := CreatePage(path)
+		content, err := CreatePage(dir, path)
 
 		if err != nil {
 			c.String(500, err.Error())
@@ -58,7 +58,6 @@ func CreateServer() *gin.Engine {
 		}
 
 		c.Header("Content-Type", "text/html")
-
 		c.String(200, content)
 	})
 

@@ -8,8 +8,8 @@ import (
 	"path"
 	"time"
 
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers/curseforge"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers/curseforge"
 	"github.com/briandowns/spinner"
 	"github.com/packwiz/packwiz/cmdshared"
 	"github.com/packwiz/packwiz/core"

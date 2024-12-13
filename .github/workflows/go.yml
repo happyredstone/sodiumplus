@@ -5,7 +5,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: golang:1.20
+      image: golang:1.23
       env:
         GOPATH: /__w/sodiumplus/go/
     steps:
@@ -13,10 +13,10 @@ jobs:
       uses: actions/checkout@v3
       with:
         fetch-depth: 1
-        path: go/src/github.com/nosadbehappy/sodiumplus
+        path: go/src/github.com/HappyRedstone/SodiumPlus
 
     - name: Build
-      run: make -C go/src/github.com/nosadbehappy/sodiumplus
+      run: make -C go/src/github.com/HappyRedstone/SodiumPlus
 
     - name: Upload Artifacts
       uses: actions/upload-artifact@v3

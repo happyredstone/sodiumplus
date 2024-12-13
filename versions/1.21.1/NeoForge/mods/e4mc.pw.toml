@@ -1,0 +1,13 @@
+name = "e4mc"
+filename = "e4mc_minecraft-neoforge-5.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/A4q0mIh4/e4mc_minecraft-neoforge-5.2.1.jar"
+hash-format = "sha512"
+hash = "32dad9dc64701b112ca89c11104db9447fe73a0248c4b5b8a4576aeb8dd082c92c083dd379b5ddb6196a4ebb78da7254a654b30cdad90f2884b484e745fe7b8c"
+
+[update]
+[update.modrinth]
+mod-id = "qANg5Jrr"
+version = "A4q0mIh4"

@@ -1,0 +1,13 @@
+name = "Hold That Chunk"
+filename = "holdthatchunk-2.1.0+1.20.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LXJlc5WJ/versions/8QSY2PFn/holdthatchunk-2.1.0%2B1.20.2.jar"
+hash-format = "sha512"
+hash = "bf79a64bc4e58e3d7143957240cd96f66bfed1f4815c9a9e08740bee97303a7d79ff807dcfa45fd4abcbec726e0fb239c5956ff1e264d55f493790d3eb63d83e"
+
+[update]
+[update.modrinth]
+mod-id = "LXJlc5WJ"
+version = "8QSY2PFn"

@@ -1,0 +1,13 @@
+name = "BetterGrassify"
+filename = "BetterGrassify-1.4.1+neo.1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/7kdeOLFa/BetterGrassify-1.4.1%2Bneo.1.21.1.jar"
+hash-format = "sha512"
+hash = "cca87a8f87d06be62f76e5567312ae0c46331286512ab345d6f64442ae75484e9d127737b04f029b8a46648f09d42936c876d87b021ccd40ce97b7febabff846"
+
+[update]
+[update.modrinth]
+mod-id = "m5T5xmUy"
+version = "7kdeOLFa"

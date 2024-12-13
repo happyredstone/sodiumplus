@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/NoSadBeHappy/SodiumPlus/builder/cmd/client/bundle"
+	"github.com/HappyRedstone/SodiumPlus/builder/cmd/client/bundle"
 	"github.com/spf13/cobra"
 )
 

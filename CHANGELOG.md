@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased - v3]
+
+### Changes
+
+- Rebuilt build system to support multiversion/multiloader builds
+- Supports 1.20.1 and 1.21.1 Fabric/Forge
+
 ## [Unreleased]
 
 We are currently waiting on the following mods to update to 1.21.4:
@@ -292,7 +299,7 @@ We are currently waiting on the following mods to update to 1.21.4:
 
 ### Fixed
 
-- Added back the Sodium mod donation button. (Closes [#13](https://github.com/NoSadBeHappy/sodiumplus/issues/13))
+- Added back the Sodium mod donation button. (#13)
 
 ## [2.2.4] - 2023-07-31
 

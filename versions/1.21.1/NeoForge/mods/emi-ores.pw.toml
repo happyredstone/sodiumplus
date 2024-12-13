@@ -1,0 +1,13 @@
+name = "EMI Ores"
+filename = "emi_ores-1.0+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/KjmLncjl/emi_ores-1.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "7e383041833196ea818a7f4edec1cce4941917a520de449cc52331bccdabe2b17dc9c7c6b75528acd4b793221cc29de814569b2b7bc7e8de732a3b38432c5d5d"
+
+[update]
+[update.modrinth]
+mod-id = "sG4TqDb8"
+version = "KjmLncjl"

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
 	"github.com/magefile/mage/target"
 	"github.com/packwiz/packwiz/core"
 )

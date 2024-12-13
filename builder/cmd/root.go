@@ -3,9 +3,10 @@ package cmd
 import (
 	"os"
 
-	"github.com/NoSadBeHappy/SodiumPlus/builder/cmd/client"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/cmd/server"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/config"
+	"github.com/HappyRedstone/SodiumPlus/builder/cmd/client"
+	"github.com/HappyRedstone/SodiumPlus/builder/cmd/server"
+	"github.com/HappyRedstone/SodiumPlus/builder/cmd/version"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/config"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
@@ -49,6 +50,10 @@ func init() {
 
 	if cfg.Server.Enabled {
 		rootCmd.AddCommand(server.ServerCommand)
+	}
+
+	if cfg.MultiVersion.Enabled {
+		rootCmd.AddCommand(version.VersionCommand)
 	}
 
 	rootCmd.AddCommand(ListCommand)

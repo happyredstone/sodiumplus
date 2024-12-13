@@ -3,8 +3,8 @@ package server
 import (
 	"os"
 
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/config"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/config"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
 	"github.com/otiai10/copy"
 	"github.com/spf13/viper"
 )

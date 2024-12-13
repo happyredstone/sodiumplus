@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/list"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/list"
 	"github.com/spf13/cobra"
 )
 

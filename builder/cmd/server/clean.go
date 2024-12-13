@@ -1,7 +1,7 @@
 package server
 
 import (
-	internalServer "github.com/NoSadBeHappy/SodiumPlus/builder/internal/server"
+	internalServer "github.com/HappyRedstone/SodiumPlus/builder/internal/server"
 	"github.com/spf13/cobra"
 )
 

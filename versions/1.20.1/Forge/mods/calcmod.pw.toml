@@ -1,0 +1,13 @@
+name = "CalcMod"
+filename = "calcmod-forge-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoHTb2Ap/versions/9YJSPPRw/calcmod-forge-1.20.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "807294a4e15c069aa41e13f1bb8c5d760a08afbcd4f173bcd8b545a016f2eff4c9bfb8ee0e120165d7a7d46c68ff725566a486026f3d2daac1a1c6f5441f170f"
+
+[update]
+[update.modrinth]
+mod-id = "XoHTb2Ap"
+version = "9YJSPPRw"

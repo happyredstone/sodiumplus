@@ -1,7 +1,7 @@
 package client
 
 import (
-	internalClient "github.com/NoSadBeHappy/SodiumPlus/builder/internal/client"
+	internalClient "github.com/HappyRedstone/SodiumPlus/builder/internal/client"
 	"github.com/spf13/cobra"
 )
 

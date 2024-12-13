@@ -1,0 +1,13 @@
+name = "Sodium Dynamic Lights"
+filename = "sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PxQSWIcD/versions/kSSa3FvO/sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar"
+hash-format = "sha512"
+hash = "34ce6de314bb94f2b92865a32e95baf15bbe796d78104338dd78b1123db1304b135d2c51441a20b3e54b94f94a4641c1a3e2cedf17472c847f53f56175035164"
+
+[update]
+[update.modrinth]
+mod-id = "PxQSWIcD"
+version = "kSSa3FvO"

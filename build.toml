@@ -1,15 +1,388 @@
 [server]
+folders = ["mods", "config", "resourcepacks"]
+files = ["icon.png", "LICENSE", "README.md", "CHANGELOG.md"]
 enabled = true
 
-folders = [
-    "mods",
-    "config",
-    "resourcepacks",
-]
+[multi_version]
+pack_name = "Sodium Plus"
+pack_author = "HappyRedstone Modding"
+pack_version = "3.0.0"
+enabled = true
+common = "common"
+temp = ".build/temp"
 
-files = [
-    "icon.png",
-    "LICENSE",
-    "README.md",
-    "CHANGELOG.md",
-]
+[[multi_version.bootstrap_mods]]
+id = "reeses-sodium-options"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "clientsort"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "collective"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "emi"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "indium"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "emi-ores"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "libjf"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "ferrite-core"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "yosbr"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "modelfix"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodium-dynamic-lights"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "txnilib"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "better-stats"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "bettergrassify"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "moreculling"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "cull-leaves"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "even-better-enchants"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "supermartijn642s-config-lib"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "tcdcommons"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fpsdisplay"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "litematica"
+platform = "CurseForge"
+
+[[multi_version.bootstrap_mods]]
+id = "calcmod"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "wakes"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "yacl"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "cit-resewn"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fabrishot"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "midnightlib"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "visuality"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "betterf3"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodium-extra"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodium"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "ambientsounds"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "dynamic-fps"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "not-enough-animations"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fadeless"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "language-reload"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "simple-voice-chat"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "chat-reporting-helper"
+platform = "CurseForge"
+
+[[multi_version.bootstrap_mods]]
+id = "modmenu"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "stack-to-nearby-chests"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "immediatelyfast"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fabricskyboxes-interop"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "hold-that-chunk"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "debugify"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "emi-loot"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fast-better-grass"
+platform = "CurseForge"
+
+[[multi_version.bootstrap_mods]]
+id = "held-item-info"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "zoomify"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "e4mc"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "emi-enchanting"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fallingleaves"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fastquit"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "mixintrace"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "entitytexturefeatures"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sound-physics-remastered"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "cloth-config"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fabricskyboxes"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fzzy-config"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "capes"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "creativecore"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "cubes-without-borders"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "xaeros-world-map"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "malilib"
+platform = "CurseForge"
+
+[[multi_version.bootstrap_mods]]
+id = "puzzle"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "shulkerboxtooltip"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "better-mount-hud"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "mouse-tweaks"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodium-options-api"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "appleskin"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "architectury-api"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodium-options-mod-compat"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "wavey-capes"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "chat-heads"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "continuity"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "entity-view-distance"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "jade"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodium-shadowy-path-blocks"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "full-brightness-toggle"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "iris"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "biome_particle_weather"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "morechathistory"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "optigui"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "blur-plus"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "entity-model-features"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "fabric-api"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "xaeros-minimap"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "durability-tooltip"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "entityculling"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "better-clouds"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "presence-footsteps"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodium-extras"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "sodiumleafculling"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "default-dark-mode"
+platform = "Modrinth"
+
+[[multi_version.bootstrap_mods]]
+id = "no-chat-reports"
+platform = "Modrinth"

@@ -1,0 +1,13 @@
+name = "Fadeless"
+filename = "fadeless-neoforge-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncKjyGm3/versions/gvsQ5qrH/fadeless-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "e9c22fd1b0ccbd3a66a1e43ee119daed52e22585d37282f6169e057c9da359e0da13caabebfea1d2ee44d5a100c5f3761fa3589ada785e9587909e9ead8b8e03"
+
+[update]
+[update.modrinth]
+mod-id = "ncKjyGm3"
+version = "gvsQ5qrH"

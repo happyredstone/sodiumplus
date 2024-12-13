@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers/cfwidget"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers/curseforge"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers/modrinth"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers/cfwidget"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers/curseforge"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers/modrinth"
 	"github.com/briandowns/spinner"
 )
 
@@ -22,8 +22,13 @@ func GetModUrl(mod *helpers.Mod) (string, error) {
 
 	if mr {
 		data := modrinthUpdate.(modrinth.ModrinthUpdateData)
+		fullData, err := modrinth.ModrinthDefaultClient.Projects.Get(data.ProjectID)
 
-		return "https://modrinth.com/mod/" + data.ProjectID + "/version/" + data.InstalledVersion, nil
+		if err != nil {
+			return "", err
+		}
+
+		return "https://modrinth.com/mod/" + *fullData.Slug + "/version/" + data.InstalledVersion, nil
 	} else if cf {
 		data := curseforgeUpdate.(curseforge.CurseUpdateData)
 

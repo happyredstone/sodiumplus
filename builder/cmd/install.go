@@ -8,7 +8,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/helpers"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
 	"github.com/google/go-github/v56/github"
 	"github.com/spf13/cobra"
 )

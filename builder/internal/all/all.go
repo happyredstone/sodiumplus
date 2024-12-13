@@ -1,9 +1,9 @@
 package all
 
 import (
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/client"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/config"
-	"github.com/NoSadBeHappy/SodiumPlus/builder/internal/server"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/client"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/config"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/server"
 )
 
 func Clean() error {

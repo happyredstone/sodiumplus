@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/NoSadBeHappy/SodiumPlus/builder/cmd/server/bundle"
+	"github.com/HappyRedstone/SodiumPlus/builder/cmd/server/bundle"
 	"github.com/spf13/cobra"
 )
 

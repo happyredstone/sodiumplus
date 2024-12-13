@@ -1,6 +1,6 @@
-module github.com/NoSadBeHappy/SodiumPlus/builder
+module github.com/HappyRedstone/SodiumPlus/builder
 
-go 1.22.0
+go 1.23.0
 
 toolchain go1.23.2
 
@@ -22,11 +22,17 @@ require (
 
 require (
 	github.com/bytedance/sonic/loader v0.2.1 // indirect
+	github.com/chzyer/readline v1.5.1 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
 	github.com/cloudwego/iasm v0.2.0 // indirect
+	github.com/daviddengcn/go-colortext v1.0.0 // indirect
+	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/rogpeppe/go-internal v1.13.1 // indirect
+	github.com/sahilm/fuzzy v0.1.1 // indirect
 	golang.org/x/sync v0.10.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
+	gopkg.in/dixonwille/wlog.v2 v2.0.0 // indirect
+	gopkg.in/dixonwille/wmenu.v4 v4.0.2 // indirect
 )
 
 require (

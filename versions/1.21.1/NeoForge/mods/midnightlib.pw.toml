@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-1.6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/YeePowOJ/midnightlib-1.6.3.jar"
+hash-format = "sha512"
+hash = "5892deabb8709bd3008fe4e9d9a7f8f3cdce2a0dbeaa1903e97895a811b8c72807803a5ed7bd0790114bf92c2b37a95331b57eeeb65987f2f2420ce6489b32d4"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "YeePowOJ"

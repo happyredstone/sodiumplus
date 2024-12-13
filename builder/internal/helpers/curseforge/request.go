@@ -1,7 +1,5 @@
 package curseforge
 
-const ModloaderTypeAny ModloaderType = iota
-
 const (
 	HashAlgoSHA1 HashAlgo = iota + 1
 	HashAlgoMD5

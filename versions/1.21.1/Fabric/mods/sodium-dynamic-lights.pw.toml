@@ -1,0 +1,13 @@
+name = "Sodium Dynamic Lights"
+filename = "sodiumdynamiclights-fabric-1.0.9-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PxQSWIcD/versions/hiAUnekX/sodiumdynamiclights-fabric-1.0.9-1.21.1.jar"
+hash-format = "sha512"
+hash = "b7236eabefb3c26326745ad231ccf09437f1e1db36ea87b4fba2cd0b935b8744e194abdf09a652b8e2cd09c23075967781770aeff86aab60e99061ee15f0ae03"
+
+[update]
+[update.modrinth]
+mod-id = "PxQSWIcD"
+version = "hiAUnekX"

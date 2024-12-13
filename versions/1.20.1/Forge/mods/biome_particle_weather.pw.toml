@@ -1,0 +1,13 @@
+name = "Biome Particle Weather"
+filename = "BiomeParticleWeather-v4.1.0-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XH09j5fH/versions/SQygau5I/BiomeParticleWeather-v4.1.0-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "de67b913683a84a270b207b6096c031849e472bf942d2ef70d3816de7a63f9d12dd814902654aa84798fbcdf7fa1f400910cf5dfb6d2051eb0b59aeabb680136"
+
+[update]
+[update.modrinth]
+mod-id = "XH09j5fH"
+version = "SQygau5I"

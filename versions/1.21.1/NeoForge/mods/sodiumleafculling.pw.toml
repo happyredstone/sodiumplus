@@ -1,0 +1,13 @@
+name = "Sodium Leaf Culling"
+filename = "sodiumleafculling-neoforge-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M25bkObt/versions/63pMU2u6/sodiumleafculling-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "acdd3fcc2cc4378d7bcb971ebfafcb6b8ba16c85e35a8e85ea07402f64a4cf0f98591e95c0bce616f242147bd8a3ae5dd6f6e1eb2c6082616e1f97e950387eb5"
+
+[update]
+[update.modrinth]
+mod-id = "M25bkObt"
+version = "63pMU2u6"

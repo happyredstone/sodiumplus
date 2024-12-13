@@ -15,3 +15,5 @@ packwiz-installer.jar
 install
 server
 /bld
+.build
+/bld.exe

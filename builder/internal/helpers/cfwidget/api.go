@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/packwiz/packwiz/core"
+	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
 )
 
 type CFWidgetAPI struct {
@@ -26,7 +26,7 @@ func (api *CFWidgetAPI) GetProject(projectId int) (*Project, error) {
 		return nil, err
 	}
 
-	req.Header.Set("User-Agent", core.UserAgent)
+	req.Header.Set("User-Agent", helpers.UserAgent)
 	req.Header.Set("Accept", "application/json")
 
 	resp, err := api.httpClient.Do(req)

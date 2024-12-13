@@ -6,6 +6,7 @@ import (
 	"path/filepath"
 
 	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
+	"github.com/packwiz/packwiz/core"
 )
 
 var (
@@ -17,11 +18,13 @@ var (
 	namedGlobs = []string{
 		"%s (Server) v*+*.zip",
 		"%s (Server) v*+*.tar.gz",
+		"%s (Server) v*+*-*.zip",
+		"%s (Server) v*+*-*.tar.gz",
 	}
 )
 
-func Clean() error {
-	err := CleanNamed()
+func Clean(outDir string, pack *core.Pack) error {
+	err := CleanNamed(outDir, pack)
 
 	if err != nil {
 		return err
@@ -42,15 +45,9 @@ func Clean() error {
 	return nil
 }
 
-func CleanNamed() error {
-	pack, _, err := helpers.GetPack()
-
-	if err != nil {
-		return err
-	}
-
+func CleanNamed(outDir string, pack *core.Pack) error {
 	for _, glob := range namedGlobs {
-		matches, err := filepath.Glob(fmt.Sprintf(glob, pack.Name))
+		matches, err := filepath.Glob(outDir + "/" + fmt.Sprintf(glob, pack.Name))
 
 		if err != nil {
 			return err

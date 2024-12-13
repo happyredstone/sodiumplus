@@ -20,7 +20,7 @@ var (
 	curseOutputFormat = "%s %s.zip"
 )
 
-func CurseForge() error {
+func CurseForge(outDir string, pack *core.Pack) error {
 	fmt.Println("Exporting CurseForge pack...")
 
 	err := helpers.Refresh()
@@ -33,14 +33,6 @@ func CurseForge() error {
 
 	s := spinner.New(spinner.CharSets[9], 100*time.Millisecond, spinner.WithFinalMSG("✓ Done!\n"))
 	s.Start()
-
-	s.Suffix = " Loading pack..."
-
-	pack, err := core.LoadPack()
-
-	if err != nil {
-		return err
-	}
 
 	s.Suffix = " Loading index..."
 
@@ -85,10 +77,19 @@ func CurseForge() error {
 
 	s.Suffix = " Creating file..."
 
-	versionString := "v" + pack.Version + "+" + pack.Versions["minecraft"]
+	loader := pack.GetLoaders()[0]
+	versionString := "v" + pack.Version + "+" + loader + "-" + pack.Versions["minecraft"]
 	fileName := fmt.Sprintf(curseOutputFormat, pack.Name, versionString)
 
-	expFile, err := os.Create(fileName)
+	if !helpers.Exists(outDir) {
+		err := os.MkdirAll(outDir, 0755)
+
+		if err != nil {
+			return err
+		}
+	}
+
+	expFile, err := os.Create(outDir + "/" + fileName)
 
 	if err != nil {
 		return err
@@ -201,7 +202,7 @@ func CurseForge() error {
 
 	s.Suffix = " Writing manifest..."
 
-	err = packinterop.WriteManifestFromPack(pack, cfFileRefs, exportData.ProjectID, manifestFile)
+	err = packinterop.WriteManifestFromPack(*pack, cfFileRefs, exportData.ProjectID, manifestFile)
 
 	if err != nil {
 		_ = exp.Close()

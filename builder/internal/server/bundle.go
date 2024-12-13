@@ -1,19 +1,21 @@
 package server
 
-func Bundle() error {
-	err := Tar()
+import "github.com/packwiz/packwiz/core"
+
+func Bundle(outDir string, pack *core.Pack) error {
+	err := Tar(pack)
 
 	if err != nil {
 		return err
 	}
 
-	err = Zip()
+	err = Zip(pack)
 
 	if err != nil {
 		return err
 	}
 
-	err = Rename()
+	err = Rename(outDir, pack)
 
 	if err != nil {
 		return err
@@ -22,14 +24,14 @@ func Bundle() error {
 	return nil
 }
 
-func CleanBundle() error {
-	err := Clean()
+func CleanBundle(outDir string, pack *core.Pack) error {
+	err := Clean(outDir, pack)
 
 	if err != nil {
 		return err
 	}
 
-	err = Bundle()
+	err = Bundle(outDir, pack)
 
 	if err != nil {
 		return err

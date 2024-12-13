@@ -2,6 +2,7 @@ package bundle
 
 import (
 	"github.com/HappyRedstone/SodiumPlus/builder/internal/server"
+	"github.com/packwiz/packwiz/core"
 	"github.com/spf13/cobra"
 )
 
@@ -13,6 +14,12 @@ var AllCommand = &cobra.Command{
 	SilenceUsage: true,
 
 	RunE: func(cmd *cobra.Command, args []string) error {
-		return server.Bundle()
+		pack, err := core.LoadPack()
+
+		if err != nil {
+			return err
+		}
+
+		return server.Bundle("output", &pack)
 	},
 }

@@ -5,23 +5,19 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/HappyRedstone/SodiumPlus/builder/internal/helpers"
+	"github.com/packwiz/packwiz/core"
 )
 
 var (
 	namedGlobs = []string{
 		"%s v*+*.zip",
 		"%s v*+*.mrpack",
+		"%s v*+*-*.zip",
+		"%s v*+*-*.mrpack",
 	}
 )
 
-func Clean() error {
-	pack, _, err := helpers.GetPack()
-
-	if err != nil {
-		return err
-	}
-
+func Clean(pack *core.Pack) error {
 	for _, glob := range namedGlobs {
 		matches, err := filepath.Glob(fmt.Sprintf(glob, pack.Name))
 

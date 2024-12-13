@@ -1,13 +1,15 @@
 package client
 
-func Bundle() error {
-	err := CurseForge()
+import "github.com/packwiz/packwiz/core"
+
+func Bundle(outDir string, pack *core.Pack) error {
+	err := CurseForge(outDir, pack)
 
 	if err != nil {
 		return err
 	}
 
-	err = Modrinth()
+	err = Modrinth(outDir, pack)
 
 	if err != nil {
 		return err

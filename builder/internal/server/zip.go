@@ -10,11 +10,12 @@ import (
 
 	"github.com/briandowns/spinner"
 	"github.com/magefile/mage/target"
+	"github.com/packwiz/packwiz/core"
 )
 
 var zipOutput = "server.zip"
 
-func Zip() error {
+func Zip(pack *core.Pack) error {
 	zipInputGlob := []string{
 		GetServerFolder() + "/**/*",
 		GetServerFolder() + "/**",

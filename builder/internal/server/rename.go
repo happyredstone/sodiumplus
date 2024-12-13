@@ -16,20 +16,23 @@ var (
 	}
 )
 
-func Rename() error {
+func Rename(outDir string, pack *core.Pack) error {
 	helpers.Setup()
-
-	pack, err := core.LoadPack()
-
-	if err != nil {
-		return err
-	}
 
 	version := pack.Version
 	minecraft := pack.Versions["minecraft"]
 	pack_name := pack.Name
+	loader := pack.GetLoaders()[0]
 
-	version_str := "v" + version + "+" + minecraft
+	version_str := "v" + version + "+" + loader + "-" + minecraft
+
+	if !helpers.Exists(outDir) {
+		err := os.MkdirAll(outDir, 0755)
+
+		if err != nil {
+			return err
+		}
+	}
 
 	for input, output := range inputMap {
 		output_str := fmt.Sprintf(output, pack_name, version_str)
@@ -48,7 +51,7 @@ func Rename() error {
 			continue
 		}
 
-		err = os.Rename(input, output_str)
+		err = os.Rename(input, outDir+"/"+output_str)
 
 		if err != nil {
 			return err

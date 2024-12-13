@@ -9,7 +9,9 @@ pack_author = "HappyRedstone Modding"
 pack_version = "3.0.0"
 enabled = true
 common = "common"
+versions = "versions"
 temp = ".build/temp"
+output = "dist"
 
 [[multi_version.bootstrap_mods]]
 id = "reeses-sodium-options"

@@ -147,8 +147,8 @@ func (stub PackStub) InitRealPack(config config.Config) (*core.Pack, error) {
 		},
 
 		Versions: map[string]string{
-			"minecraft": stub.Minecraft,
-			stub.Loader: stub.LoaderVersion,
+			"minecraft":                  stub.Minecraft,
+			strings.ToLower(stub.Loader): stub.LoaderVersion,
 		},
 	}
 

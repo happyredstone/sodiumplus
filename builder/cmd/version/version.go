@@ -16,7 +16,8 @@ func CreateVersionCommand() *cobra.Command {
 
 	cmd.AddCommand(InitCommand)
 	cmd.AddCommand(MigrateCommand)
-	cmd.AddCommand(ExpandCommand)
+	cmd.AddCommand(BundleCommand)
+	cmd.AddCommand(BundleAllCommand)
 
 	return &cmd
 }

@@ -12,11 +12,12 @@ import (
 
 	"github.com/briandowns/spinner"
 	"github.com/magefile/mage/target"
+	"github.com/packwiz/packwiz/core"
 )
 
 var tarOutput = "server.tar.gz"
 
-func Tar() error {
+func Tar(pack *core.Pack) error {
 	tarInputGlob := []string{
 		GetServerFolder() + "/**/*",
 		GetServerFolder() + "/**",

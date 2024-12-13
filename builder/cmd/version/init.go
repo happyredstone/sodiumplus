@@ -23,7 +23,6 @@ var BasePath string
 var Force bool
 var UseLatest bool
 var InitCommand = CreateInitCommand()
-var Loaders = []string{"Forge", "Fabric", "NeoForge", "Quilt", "LiteLoader"}
 
 func CreateInitCommand() *cobra.Command {
 	cmd := cobra.Command{
@@ -78,7 +77,7 @@ func InitFor(versions []string, ver string, loader string) error {
 	found_loader := false
 
 	// Use custom logic so we can properly capitalize the loader name
-	for _, loader_id := range Loaders {
+	for _, loader_id := range multiver.Loaders {
 		if strings.EqualFold(loader_id, loader) {
 			found_loader = true
 			loader = loader_id

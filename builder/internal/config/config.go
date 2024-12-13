@@ -38,6 +38,8 @@ type Config struct {
 		BootstrapMods []Mod  `toml:"bootstrap_mods"`
 		CommonDir     string `toml:"common"`
 		TempDir       string `toml:"temp"`
+		VersionsDir   string `toml:"versions"`
+		OutDir        string `toml:"output"`
 	} `toml:"multi_version"`
 }
 

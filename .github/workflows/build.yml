@@ -14,9 +14,7 @@ jobs:
       run: |
         [[ -f bld ]] && rm -f bld
         go build -buildvcs=false -o bld ./builder
-        ./bld b
-        mkdir dist
-        mv *.zip *.tar.gz *.mrpack dist
+        ./bld version bundle-all
 
     - name: Upload Artifacts
       uses: actions/upload-artifact@v3

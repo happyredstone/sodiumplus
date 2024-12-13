@@ -70,7 +70,9 @@ func CreateMigrateCommand() *cobra.Command {
 			cfg.MultiVersion.PackVersion = pack.Version
 			cfg.MultiVersion.BootstrapMods = data
 			cfg.MultiVersion.CommonDir = "common"
+			cfg.MultiVersion.VersionsDir = "versions"
 			cfg.MultiVersion.TempDir = ".build/temp"
+			cfg.MultiVersion.OutDir = "output"
 
 			cfg.Write()
 

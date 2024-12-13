@@ -2,6 +2,7 @@ package client
 
 import (
 	internalClient "github.com/HappyRedstone/SodiumPlus/builder/internal/client"
+	"github.com/packwiz/packwiz/core"
 	"github.com/spf13/cobra"
 )
 
@@ -12,6 +13,12 @@ var CleanCommand = &cobra.Command{
 	Aliases: []string{"c"},
 
 	RunE: func(cmd *cobra.Command, args []string) error {
-		return internalClient.Clean()
+		pack, err := core.LoadPack()
+
+		if err != nil {
+			return err
+		}
+
+		return internalClient.Clean(&pack)
 	},
 }

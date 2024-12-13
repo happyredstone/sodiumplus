@@ -70,7 +70,7 @@ func AddToZip(dl core.CompletedDownload, exp *zip.Writer, dir string, index *cor
 	return true
 }
 
-func Modrinth() error {
+func Modrinth(outDir string, pack *core.Pack) error {
 	fmt.Println("Exporting Modrinth pack...")
 
 	err := helpers.Refresh()
@@ -83,14 +83,6 @@ func Modrinth() error {
 
 	s := spinner.New(spinner.CharSets[9], 100*time.Millisecond, spinner.WithFinalMSG("✓ Done!\n"))
 	s.Start()
-
-	s.Suffix = " Loading pack..."
-
-	pack, err := core.LoadPack()
-
-	if err != nil {
-		return err
-	}
 
 	s.Suffix = " Loading index..."
 
@@ -108,12 +100,21 @@ func Modrinth() error {
 		return err
 	}
 
-	versionString := "v" + pack.Version + "+" + pack.Versions["minecraft"]
+	loader := pack.GetLoaders()[0]
+	versionString := "v" + pack.Version + "+" + loader + "-" + pack.Versions["minecraft"]
 	fileName := fmt.Sprintf(modrinthOutputFormat, pack.Name, versionString)
 
 	s.Suffix = " Creating file..."
 
-	expFile, err := os.Create(fileName)
+	if !helpers.Exists(outDir) {
+		err := os.MkdirAll(outDir, 0755)
+
+		if err != nil {
+			return err
+		}
+	}
+
+	expFile, err := os.Create(outDir + "/" + fileName)
 
 	if err != nil {
 		return err

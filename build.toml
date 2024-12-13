@@ -6,7 +6,7 @@ enabled = true
 [multi_version]
 pack_name = "Sodium Plus"
 pack_author = "HappyRedstone Modding"
-pack_version = "3.0.0"
+pack_version = "3.0.0-alpha.1"
 enabled = true
 common = "common"
 versions = "versions"
